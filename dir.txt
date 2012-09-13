@@ -1,0 +1,3070 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5421-5165
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+23-Mar-2011  02:10 PM    <DIR>          001
+23-Mar-2011  02:10 PM    <DIR>          002
+23-Mar-2011  02:10 PM    <DIR>          003
+23-Mar-2011  02:10 PM    <DIR>          004
+23-Mar-2011  02:10 PM    <DIR>          005
+23-Mar-2011  02:10 PM    <DIR>          006
+23-Mar-2011  02:10 PM    <DIR>          007
+23-Mar-2011  02:10 PM    <DIR>          008
+23-Mar-2011  02:10 PM    <DIR>          009
+23-Mar-2011  02:10 PM    <DIR>          010
+23-Mar-2011  02:10 PM    <DIR>          011
+23-Mar-2011  02:10 PM    <DIR>          012
+23-Mar-2011  02:10 PM    <DIR>          013
+23-Mar-2011  02:10 PM    <DIR>          014
+23-Mar-2011  02:10 PM    <DIR>          015
+23-Mar-2011  02:10 PM    <DIR>          016
+23-Mar-2011  02:10 PM    <DIR>          017
+23-Mar-2011  02:10 PM    <DIR>          018
+23-Mar-2011  02:10 PM    <DIR>          019
+23-Mar-2011  02:10 PM    <DIR>          021
+23-Mar-2011  02:10 PM    <DIR>          022
+23-Mar-2011  02:10 PM    <DIR>          023
+23-Mar-2011  02:10 PM    <DIR>          024
+23-Mar-2011  02:10 PM    <DIR>          025
+23-Mar-2011  02:10 PM    <DIR>          026
+23-Mar-2011  02:10 PM    <DIR>          027
+23-Mar-2011  02:10 PM    <DIR>          028
+23-Mar-2011  02:10 PM    <DIR>          029
+23-Mar-2011  02:10 PM    <DIR>          02A
+23-Mar-2011  02:10 PM    <DIR>          02B
+23-Mar-2011  02:10 PM    <DIR>          030
+23-Mar-2011  02:10 PM    <DIR>          031
+23-Mar-2011  02:10 PM    <DIR>          032
+23-Mar-2011  02:10 PM    <DIR>          033
+23-Mar-2011  02:10 PM    <DIR>          034
+23-Mar-2011  02:11 PM    <DIR>          035
+23-Mar-2011  02:11 PM    <DIR>          036
+23-Mar-2011  02:11 PM    <DIR>          037
+23-Mar-2011  02:11 PM    <DIR>          038
+23-Mar-2011  02:11 PM    <DIR>          039
+23-Mar-2011  02:11 PM    <DIR>          040
+23-Mar-2011  02:11 PM    <DIR>          041
+23-Mar-2011  02:11 PM    <DIR>          042
+23-Mar-2011  02:11 PM    <DIR>          043
+23-Mar-2011  02:11 PM    <DIR>          044
+23-Mar-2011  02:11 PM    <DIR>          045
+23-Mar-2011  02:11 PM    <DIR>          046
+23-Mar-2011  02:11 PM    <DIR>          047
+23-Mar-2011  02:11 PM    <DIR>          048
+23-Mar-2011  02:11 PM    <DIR>          049
+23-Mar-2011  02:11 PM    <DIR>          050
+23-Mar-2011  02:11 PM    <DIR>          051
+23-Mar-2011  02:11 PM    <DIR>          052
+23-Mar-2011  02:11 PM    <DIR>          053
+23-Mar-2011  02:11 PM    <DIR>          054
+23-Mar-2011  02:11 PM    <DIR>          055
+23-Mar-2011  02:11 PM    <DIR>          056
+23-Mar-2011  02:11 PM    <DIR>          057
+23-Mar-2011  02:11 PM    <DIR>          058
+23-Mar-2011  02:11 PM    <DIR>          059
+23-Mar-2011  02:11 PM    <DIR>          060
+23-Mar-2011  02:11 PM    <DIR>          061
+23-Mar-2011  02:11 PM    <DIR>          062
+23-Mar-2011  02:11 PM    <DIR>          063
+23-Mar-2011  02:11 PM    <DIR>          064
+23-Mar-2011  02:11 PM    <DIR>          065
+23-Mar-2011  02:11 PM    <DIR>          066
+23-Mar-2011  02:11 PM    <DIR>          067
+23-Mar-2011  02:11 PM    <DIR>          068
+23-Mar-2011  02:11 PM    <DIR>          069
+23-Mar-2011  02:11 PM    <DIR>          070
+23-Mar-2011  02:11 PM    <DIR>          071
+23-Mar-2011  02:11 PM    <DIR>          072
+23-Mar-2011  02:11 PM    <DIR>          073
+23-Mar-2011  02:11 PM    <DIR>          074
+23-Mar-2011  02:11 PM    <DIR>          076
+23-Mar-2011  02:11 PM    <DIR>          077
+23-Mar-2011  02:11 PM    <DIR>          078
+23-Mar-2011  02:11 PM    <DIR>          079
+23-Mar-2011  02:11 PM    <DIR>          080
+23-Mar-2011  02:11 PM    <DIR>          081
+23-Mar-2011  02:11 PM    <DIR>          082
+23-Mar-2011  02:12 PM    <DIR>          083
+23-Mar-2011  02:12 PM    <DIR>          084
+23-Mar-2011  02:12 PM    <DIR>          085
+23-Mar-2011  02:12 PM    <DIR>          086
+23-Mar-2011  02:12 PM    <DIR>          087
+23-Mar-2011  02:12 PM    <DIR>          088
+23-Mar-2011  02:12 PM    <DIR>          089
+23-Mar-2011  02:12 PM    <DIR>          090
+23-Mar-2011  02:12 PM    <DIR>          091
+23-Mar-2011  02:12 PM    <DIR>          092
+23-Mar-2011  02:12 PM    <DIR>          093
+23-Mar-2011  02:12 PM    <DIR>          094
+23-Mar-2011  02:12 PM    <DIR>          095
+23-Mar-2011  02:12 PM    <DIR>          971
+23-Mar-2011  02:12 PM    <DIR>          972
+23-Mar-2011  02:12 PM    <DIR>          973
+23-Mar-2011  02:12 PM    <DIR>          974
+23-Mar-2011  02:12 PM    <DIR>          976
+23-Mar-2011  02:12 PM    <DIR>          css
+23-Mar-2011  02:12 PM    <DIR>          images
+23-Mar-2011  02:12 PM    <DIR>          img
+22-Mar-2011  04:45 PM           178,074 index.html
+               1 File(s)        178,074 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\001
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  03:59 PM             5,116 001.html
+22-Mar-2011  03:59 PM             6,490 00102.html
+22-Mar-2011  03:59 PM             6,754 00103.html
+22-Mar-2011  03:59 PM             6,463 00104.html
+22-Mar-2011  03:59 PM             6,255 00110.html
+22-Mar-2011  03:59 PM             6,194 00111.html
+22-Mar-2011  03:59 PM             6,741 00113.html
+22-Mar-2011  03:59 PM             5,721 00115.html
+22-Mar-2011  03:59 PM             6,197 00118.html
+22-Mar-2011  03:59 PM             6,221 00120.html
+22-Mar-2011  03:59 PM             6,455 00122.html
+22-Mar-2011  03:59 PM             6,706 00124.html
+22-Mar-2011  03:59 PM             6,215 00125.html
+22-Mar-2011  03:59 PM             6,223 00127.html
+22-Mar-2011  03:59 PM             6,233 00129.html
+22-Mar-2011  03:59 PM             6,696 00131.html
+22-Mar-2011  03:59 PM             6,228 00132.html
+22-Mar-2011  03:59 PM             6,216 00134.html
+22-Mar-2011  03:59 PM             6,228 00135.html
+22-Mar-2011  03:59 PM             6,720 00136.html
+22-Mar-2011  03:59 PM             6,209 00139.html
+22-Mar-2011  03:59 PM             6,210 00140.html
+22-Mar-2011  03:59 PM             5,954 00143.html
+17-Mar-2011  09:54 AM             4,407 C1001.html
+22-Mar-2011  03:59 PM             5,116 index.html
+              25 File(s)        153,968 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\002
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:00 PM             5,182 002.html
+22-Mar-2011  04:00 PM             6,230 00201.html
+22-Mar-2011  04:00 PM             5,978 00203.html
+22-Mar-2011  04:00 PM             6,215 00204.html
+22-Mar-2011  04:00 PM             5,972 00205.html
+22-Mar-2011  04:00 PM             6,252 00208.html
+22-Mar-2011  04:00 PM             5,719 00209.html
+22-Mar-2011  04:00 PM             5,960 00212.html
+22-Mar-2011  04:00 PM             6,243 00215.html
+22-Mar-2011  04:00 PM             5,975 00218.html
+22-Mar-2011  04:00 PM             5,711 00219.html
+22-Mar-2011  04:00 PM             5,744 00221.html
+22-Mar-2011  04:00 PM             6,242 00223.html
+22-Mar-2011  04:00 PM             5,714 00225.html
+22-Mar-2011  04:00 PM             5,727 00227.html
+22-Mar-2011  04:00 PM             6,508 00228.html
+22-Mar-2011  04:00 PM             5,962 00230.html
+22-Mar-2011  04:00 PM             5,981 00232.html
+22-Mar-2011  04:00 PM             5,718 00233.html
+22-Mar-2011  04:00 PM             6,215 00234.html
+22-Mar-2011  04:00 PM             6,229 00235.html
+22-Mar-2011  04:00 PM             6,756 00239.html
+17-Mar-2011  09:54 AM             4,364 C1002.html
+22-Mar-2011  04:00 PM             5,182 index.html
+              24 File(s)        141,779 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\003
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:01 PM             4,994 003.html
+22-Mar-2011  04:01 PM             6,256 00301.html
+22-Mar-2011  04:01 PM             5,727 00302.html
+22-Mar-2011  04:01 PM             5,723 00303.html
+22-Mar-2011  04:01 PM             6,496 00306.html
+22-Mar-2011  04:01 PM             5,742 00307.html
+22-Mar-2011  04:01 PM             6,744 00310.html
+22-Mar-2011  04:01 PM             6,222 00312.html
+22-Mar-2011  04:01 PM             6,495 00314.html
+22-Mar-2011  04:01 PM             6,502 00317.html
+22-Mar-2011  04:01 PM             6,499 00318.html
+22-Mar-2011  04:01 PM             5,728 00319.html
+22-Mar-2011  04:01 PM             6,498 00321.html
+22-Mar-2011  04:01 PM             6,252 00324.html
+22-Mar-2011  04:01 PM             5,728 00327.html
+22-Mar-2011  04:01 PM             6,731 00330.html
+22-Mar-2011  04:01 PM             6,218 00333.html
+22-Mar-2011  04:01 PM             6,016 00334.html
+22-Mar-2011  04:01 PM             6,484 00335.html
+17-Mar-2011  09:55 AM             4,168 C1003.html
+22-Mar-2011  04:01 PM             4,994 index.html
+              21 File(s)        126,217 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\004
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:01 PM             4,757 004.html
+22-Mar-2011  04:01 PM             5,797 00402.html
+22-Mar-2011  04:01 PM             5,795 00403.html
+22-Mar-2011  04:01 PM             6,061 00404.html
+22-Mar-2011  04:01 PM             6,041 00405.html
+22-Mar-2011  04:01 PM             5,804 00406.html
+22-Mar-2011  04:01 PM             6,573 00410.html
+22-Mar-2011  04:01 PM             5,790 00411.html
+22-Mar-2011  04:01 PM             7,073 00413.html
+22-Mar-2011  04:01 PM             6,293 00415.html
+22-Mar-2011  04:01 PM             6,561 00418.html
+22-Mar-2011  04:01 PM             6,307 00420.html
+22-Mar-2011  04:01 PM             6,546 00421.html
+22-Mar-2011  04:01 PM             6,073 00422.html
+22-Mar-2011  04:01 PM             6,061 00429.html
+22-Mar-2011  04:01 PM             7,060 00430.html
+22-Mar-2011  04:01 PM             6,324 00432.html
+07-Mar-2011  08:24 AM             4,014 C1004.html
+22-Mar-2011  04:01 PM             4,757 index.html
+              19 File(s)        113,687 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\005
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:01 PM             4,580 005.html
+22-Mar-2011  04:01 PM             6,004 00501.html
+22-Mar-2011  04:01 PM             6,790 00502.html
+22-Mar-2011  04:01 PM             5,770 00505.html
+22-Mar-2011  04:01 PM             6,511 00506.html
+22-Mar-2011  04:01 PM             6,248 00507.html
+22-Mar-2011  04:01 PM             5,788 00513.html
+22-Mar-2011  04:01 PM             5,983 00517.html
+22-Mar-2011  04:01 PM             6,262 00518.html
+22-Mar-2011  04:01 PM             5,995 00520.html
+22-Mar-2011  04:01 PM             6,001 00521.html
+22-Mar-2011  04:01 PM             5,994 00522.html
+22-Mar-2011  04:01 PM             6,506 00523.html
+22-Mar-2011  04:01 PM             5,740 00524.html
+22-Mar-2011  04:01 PM             6,255 00526.html
+22-Mar-2011  04:01 PM             6,261 00529.html
+07-Mar-2011  08:25 AM             3,931 C1005.html
+22-Mar-2011  04:01 PM             4,580 index.html
+              18 File(s)        105,199 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\006
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:02 PM             5,330 006.html
+22-Mar-2011  04:02 PM             7,076 00605.html
+22-Mar-2011  04:02 PM             6,027 00608.html
+22-Mar-2011  04:02 PM             6,020 00609.html
+22-Mar-2011  04:02 PM             6,543 00610.html
+22-Mar-2011  04:02 PM             5,782 00611.html
+22-Mar-2011  04:02 PM             6,012 00612.html
+22-Mar-2011  04:02 PM             7,025 00616.html
+22-Mar-2011  04:02 PM             6,266 00618.html
+22-Mar-2011  04:02 PM             5,777 00619.html
+22-Mar-2011  04:02 PM             6,037 00623.html
+22-Mar-2011  04:02 PM             6,314 00625.html
+22-Mar-2011  04:02 PM             6,255 00627.html
+22-Mar-2011  04:02 PM             6,276 00629.html
+22-Mar-2011  04:02 PM             6,298 00630.html
+22-Mar-2011  04:02 PM             7,031 00632.html
+22-Mar-2011  04:02 PM             6,308 00635.html
+22-Mar-2011  04:02 PM             6,561 00636.html
+22-Mar-2011  04:02 PM             6,773 00637.html
+22-Mar-2011  04:02 PM             7,035 00638.html
+22-Mar-2011  04:02 PM             6,790 00640.html
+22-Mar-2011  04:02 PM             6,782 00641.html
+22-Mar-2011  04:02 PM             7,042 00642.html
+22-Mar-2011  04:02 PM             6,531 00644.html
+22-Mar-2011  04:02 PM             6,027 00647.html
+22-Mar-2011  04:02 PM             6,567 00648.html
+22-Mar-2011  04:02 PM             6,285 00651.html
+07-Mar-2011  08:25 AM             4,753 C1006.html
+22-Mar-2011  04:02 PM             5,330 index.html
+              29 File(s)        182,853 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\007
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:02 PM             4,772 007.html
+22-Mar-2011  04:02 PM             6,739 00701.html
+22-Mar-2011  04:02 PM             6,976 00702.html
+22-Mar-2011  04:02 PM             6,476 00706.html
+22-Mar-2011  04:02 PM             6,996 00709.html
+22-Mar-2011  04:02 PM             6,483 00710.html
+22-Mar-2011  04:02 PM             6,489 00712.html
+22-Mar-2011  04:02 PM             6,484 00713.html
+22-Mar-2011  04:02 PM             6,243 00716.html
+22-Mar-2011  04:02 PM             5,992 00717.html
+22-Mar-2011  04:02 PM             6,247 00718.html
+22-Mar-2011  04:02 PM             5,998 00720.html
+22-Mar-2011  04:02 PM             6,213 00725.html
+22-Mar-2011  04:02 PM             6,739 00727.html
+22-Mar-2011  04:02 PM             6,229 00730.html
+22-Mar-2011  04:02 PM             6,261 00731.html
+22-Mar-2011  04:02 PM             6,228 00732.html
+07-Mar-2011  08:25 AM             4,013 C1007.html
+22-Mar-2011  04:02 PM             4,772 index.html
+              19 File(s)        116,350 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\008
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:02 PM             4,918 008.html
+22-Mar-2011  04:02 PM             5,968 00810.html
+22-Mar-2011  04:02 PM             6,233 00813.html
+22-Mar-2011  04:02 PM             5,968 00814.html
+22-Mar-2011  04:02 PM             5,980 00816.html
+22-Mar-2011  04:02 PM             5,967 00817.html
+22-Mar-2011  04:02 PM             5,754 00819.html
+22-Mar-2011  04:02 PM             6,224 00820.html
+22-Mar-2011  04:02 PM             6,507 00821.html
+22-Mar-2011  04:02 PM             6,474 00822.html
+22-Mar-2011  04:02 PM             5,970 00823.html
+22-Mar-2011  04:02 PM             6,230 00825.html
+22-Mar-2011  04:02 PM             6,490 00826.html
+22-Mar-2011  04:02 PM             6,738 00827.html
+22-Mar-2011  04:02 PM             6,246 00828.html
+22-Mar-2011  04:02 PM             5,990 00829.html
+22-Mar-2011  04:02 PM             6,216 00830.html
+22-Mar-2011  04:02 PM             5,979 00831.html
+22-Mar-2011  04:02 PM             6,266 00834.html
+07-Mar-2011  08:25 AM             4,094 C1008.html
+22-Mar-2011  04:02 PM             4,918 index.html
+              21 File(s)        125,130 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\009
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:03 PM             4,410 009.html
+22-Mar-2011  04:03 PM             6,233 00906.html
+22-Mar-2011  04:03 PM             6,226 00907.html
+22-Mar-2011  04:03 PM             5,974 00908.html
+22-Mar-2011  04:03 PM             5,704 00911.html
+22-Mar-2011  04:03 PM             6,246 00912.html
+22-Mar-2011  04:03 PM             5,456 00913.html
+22-Mar-2011  04:03 PM             5,988 00914.html
+22-Mar-2011  04:03 PM             5,991 00915.html
+22-Mar-2011  04:03 PM             6,489 00918.html
+22-Mar-2011  04:03 PM             5,721 00920.html
+22-Mar-2011  04:03 PM             6,476 00922.html
+07-Mar-2011  08:26 AM             3,635 C1009.html
+22-Mar-2011  04:03 PM             4,410 index.html
+              14 File(s)         78,959 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\010
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:03 PM             4,874 010.html
+22-Mar-2011  04:03 PM             5,983 01002.html
+22-Mar-2011  04:03 PM             5,718 01005.html
+22-Mar-2011  04:03 PM             6,239 01006.html
+22-Mar-2011  04:03 PM             6,478 01009.html
+22-Mar-2011  04:03 PM             6,213 01011.html
+22-Mar-2011  04:03 PM             5,978 01013.html
+22-Mar-2011  04:03 PM             6,223 01015.html
+22-Mar-2011  04:03 PM             5,733 01016.html
+22-Mar-2011  04:03 PM             5,953 01018.html
+22-Mar-2011  04:03 PM             6,233 01021.html
+22-Mar-2011  04:03 PM             5,954 01023.html
+22-Mar-2011  04:03 PM             6,212 01024.html
+22-Mar-2011  04:03 PM             6,235 01026.html
+22-Mar-2011  04:03 PM             5,984 01027.html
+22-Mar-2011  04:03 PM             6,456 01030.html
+22-Mar-2011  04:03 PM             5,967 01032.html
+22-Mar-2011  04:03 PM             6,248 01033.html
+07-Mar-2011  08:26 AM             4,079 C1010.html
+22-Mar-2011  04:03 PM             4,874 index.html
+              20 File(s)        117,634 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\011
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:03 PM             4,909 011.html
+22-Mar-2011  04:03 PM             6,469 01101.html
+22-Mar-2011  04:03 PM             6,209 01102.html
+22-Mar-2011  04:03 PM             5,690 01103.html
+22-Mar-2011  04:03 PM             6,451 01105.html
+22-Mar-2011  04:03 PM             6,991 01107.html
+22-Mar-2011  04:03 PM             6,224 01109.html
+22-Mar-2011  04:03 PM             5,959 01111.html
+22-Mar-2011  04:03 PM             5,964 01113.html
+22-Mar-2011  04:03 PM             6,217 01114.html
+22-Mar-2011  04:03 PM             6,477 01115.html
+22-Mar-2011  04:03 PM             5,705 01118.html
+22-Mar-2011  04:03 PM             6,747 01119.html
+22-Mar-2011  04:03 PM             5,955 01121.html
+22-Mar-2011  04:03 PM             6,487 01124.html
+22-Mar-2011  04:03 PM             6,237 01125.html
+22-Mar-2011  04:03 PM             6,239 01129.html
+22-Mar-2011  04:03 PM             5,700 01131.html
+22-Mar-2011  04:03 PM             7,240 01135.html
+07-Mar-2011  08:26 AM             4,117 C1011.html
+22-Mar-2011  04:03 PM             4,909 index.html
+              21 File(s)        126,896 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\012
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:04 PM             5,115 012.html
+22-Mar-2011  04:04 PM             5,739 01202.html
+22-Mar-2011  04:04 PM             6,237 01203.html
+22-Mar-2011  04:04 PM             5,724 01205.html
+22-Mar-2011  04:04 PM             6,006 01211.html
+22-Mar-2011  04:04 PM             5,730 01213.html
+22-Mar-2011  04:04 PM             6,480 01214.html
+22-Mar-2011  04:04 PM             5,970 01215.html
+22-Mar-2011  04:04 PM             5,755 01216.html
+22-Mar-2011  04:04 PM             5,731 01218.html
+22-Mar-2011  04:04 PM             5,989 01219.html
+22-Mar-2011  04:04 PM             5,717 01220.html
+22-Mar-2011  04:04 PM             6,223 01221.html
+22-Mar-2011  04:04 PM             5,480 01222.html
+22-Mar-2011  04:04 PM             6,235 01224.html
+22-Mar-2011  04:04 PM             6,241 01228.html
+22-Mar-2011  04:04 PM             5,988 01229.html
+22-Mar-2011  04:04 PM             5,751 01230.html
+22-Mar-2011  04:04 PM             5,747 01236.html
+22-Mar-2011  04:04 PM             5,490 01238.html
+22-Mar-2011  04:04 PM             5,991 01241.html
+22-Mar-2011  04:04 PM             6,259 01242.html
+22-Mar-2011  04:04 PM             6,756 01244.html
+07-Mar-2011  08:26 AM             4,446 C1012.html
+22-Mar-2011  04:04 PM             5,115 index.html
+              25 File(s)        145,915 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\013
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:04 PM             5,617 013.html
+22-Mar-2011  04:04 PM             6,317 01302.html
+22-Mar-2011  04:04 PM             6,289 01304.html
+22-Mar-2011  04:04 PM             6,548 01306.html
+22-Mar-2011  04:04 PM             6,543 01308.html
+22-Mar-2011  04:04 PM             6,284 01309.html
+22-Mar-2011  04:04 PM             6,278 01312.html
+22-Mar-2011  04:04 PM             7,584 01314.html
+22-Mar-2011  04:04 PM             7,580 01318.html
+22-Mar-2011  04:04 PM             6,817 01319.html
+22-Mar-2011  04:04 PM             7,065 01321.html
+22-Mar-2011  04:04 PM             7,319 01322.html
+22-Mar-2011  04:04 PM             6,821 01323.html
+22-Mar-2011  04:04 PM             6,311 01327.html
+22-Mar-2011  04:04 PM             6,297 01328.html
+22-Mar-2011  04:04 PM             6,568 01331.html
+22-Mar-2011  04:04 PM             6,273 01333.html
+22-Mar-2011  04:04 PM             6,522 01334.html
+22-Mar-2011  04:04 PM             6,283 01335.html
+22-Mar-2011  04:04 PM             7,288 01336.html
+22-Mar-2011  04:04 PM             6,560 01341.html
+22-Mar-2011  04:04 PM             7,565 01343.html
+22-Mar-2011  04:04 PM             6,829 01345.html
+22-Mar-2011  04:04 PM             6,816 01346.html
+22-Mar-2011  04:04 PM             6,568 01348.html
+22-Mar-2011  04:04 PM             6,798 01351.html
+22-Mar-2011  04:04 PM             6,569 01352.html
+22-Mar-2011  04:04 PM             7,040 01353.html
+22-Mar-2011  04:04 PM             6,554 01354.html
+22-Mar-2011  04:04 PM             6,836 01358.html
+07-Mar-2011  08:26 AM             5,086 C1013.html
+22-Mar-2011  04:04 PM             5,617 index.html
+              32 File(s)        211,442 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\014
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:04 PM             5,251 014.html
+22-Mar-2011  04:04 PM             5,984 01401.html
+22-Mar-2011  04:04 PM             6,726 01402.html
+22-Mar-2011  04:04 PM             6,502 01403.html
+22-Mar-2011  04:04 PM             5,999 01404.html
+22-Mar-2011  04:04 PM             6,243 01406.html
+22-Mar-2011  04:04 PM             6,262 01407.html
+22-Mar-2011  04:04 PM             6,986 01408.html
+22-Mar-2011  04:04 PM             6,723 01410.html
+22-Mar-2011  04:04 PM             5,992 01411.html
+22-Mar-2011  04:04 PM             5,763 01412.html
+22-Mar-2011  04:04 PM             6,251 01413.html
+22-Mar-2011  04:04 PM             6,475 01415.html
+22-Mar-2011  04:04 PM             5,987 01417.html
+22-Mar-2011  04:04 PM             6,245 01418.html
+22-Mar-2011  04:04 PM             6,742 01421.html
+22-Mar-2011  04:04 PM             5,985 01422.html
+22-Mar-2011  04:04 PM             6,239 01423.html
+22-Mar-2011  04:04 PM             6,492 01427.html
+22-Mar-2011  04:04 PM             6,730 01439.html
+22-Mar-2011  04:04 PM             6,477 01440.html
+22-Mar-2011  04:04 PM             6,789 01441.html
+22-Mar-2011  04:04 PM             7,000 01446.html
+22-Mar-2011  04:04 PM             5,737 01449.html
+07-Mar-2011  08:27 AM             4,478 C1014.html
+22-Mar-2011  04:04 PM             5,251 index.html
+              26 File(s)        161,309 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\015
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:05 PM             4,622 015.html
+22-Mar-2011  04:05 PM             6,237 01502.html
+22-Mar-2011  04:05 PM             6,004 01504.html
+22-Mar-2011  04:05 PM             5,728 01505.html
+22-Mar-2011  04:05 PM             5,707 01506.html
+22-Mar-2011  04:05 PM             5,985 01509.html
+22-Mar-2011  04:05 PM             5,722 01510.html
+22-Mar-2011  04:05 PM             6,228 01511.html
+22-Mar-2011  04:05 PM             5,464 01512.html
+22-Mar-2011  04:05 PM             5,473 01518.html
+22-Mar-2011  04:05 PM             5,750 01519.html
+22-Mar-2011  04:05 PM             5,748 01520.html
+22-Mar-2011  04:05 PM             5,997 01521.html
+22-Mar-2011  04:05 PM             6,218 01522.html
+22-Mar-2011  04:05 PM             5,743 01526.html
+07-Mar-2011  08:27 AM             3,856 C1015.html
+22-Mar-2011  04:05 PM             4,622 index.html
+              17 File(s)         95,104 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\016
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:05 PM             4,916 016.html
+22-Mar-2011  04:05 PM             5,718 01601.html
+22-Mar-2011  04:05 PM             6,003 01602.html
+22-Mar-2011  04:05 PM             7,009 01603.html
+22-Mar-2011  04:05 PM             5,500 01604.html
+22-Mar-2011  04:05 PM             5,509 01605.html
+22-Mar-2011  04:05 PM             6,747 01613.html
+22-Mar-2011  04:05 PM             6,249 01614.html
+22-Mar-2011  04:05 PM             5,989 01615.html
+22-Mar-2011  04:05 PM             5,979 01616.html
+22-Mar-2011  04:05 PM             5,977 01617.html
+22-Mar-2011  04:05 PM             5,733 01619.html
+22-Mar-2011  04:05 PM             6,275 01621.html
+22-Mar-2011  04:05 PM             5,990 01624.html
+22-Mar-2011  04:05 PM             6,277 01625.html
+22-Mar-2011  04:05 PM             5,989 01626.html
+22-Mar-2011  04:05 PM             6,495 01627.html
+22-Mar-2011  04:05 PM             6,008 01628.html
+22-Mar-2011  04:05 PM             6,998 01634.html
+14-Mar-2011  04:37 PM             4,164 C1016.html
+22-Mar-2011  04:05 PM             4,916 index.html
+              21 File(s)        124,441 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\017
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:05 PM             5,500 017.html
+22-Mar-2011  04:05 PM             6,309 01701.html
+22-Mar-2011  04:05 PM             5,772 01702.html
+22-Mar-2011  04:05 PM             6,762 01705.html
+22-Mar-2011  04:05 PM             6,526 01712.html
+22-Mar-2011  04:05 PM             6,531 01713.html
+22-Mar-2011  04:05 PM             6,530 01714.html
+22-Mar-2011  04:05 PM             6,279 01717.html
+22-Mar-2011  04:05 PM             6,296 01719.html
+22-Mar-2011  04:05 PM             6,270 01720.html
+22-Mar-2011  04:05 PM             6,793 01721.html
+22-Mar-2011  04:05 PM             6,782 01722.html
+22-Mar-2011  04:05 PM             6,538 01723.html
+22-Mar-2011  04:05 PM             6,315 01725.html
+22-Mar-2011  04:05 PM             6,807 01727.html
+22-Mar-2011  04:05 PM             6,317 01729.html
+22-Mar-2011  04:05 PM             6,572 01730.html
+22-Mar-2011  04:05 PM             6,559 01731.html
+22-Mar-2011  04:05 PM             6,561 01735.html
+22-Mar-2011  04:05 PM             6,286 01736.html
+22-Mar-2011  04:05 PM             6,799 01737.html
+22-Mar-2011  04:05 PM             6,289 01738.html
+22-Mar-2011  04:05 PM             6,543 01741.html
+22-Mar-2011  04:05 PM             6,548 01742.html
+22-Mar-2011  04:05 PM             7,069 01743.html
+22-Mar-2011  04:05 PM             6,544 01744.html
+22-Mar-2011  04:05 PM             6,800 01745.html
+14-Mar-2011  04:37 PM             4,745 C1017.html
+22-Mar-2011  04:05 PM             5,500 index.html
+              29 File(s)        185,142 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\018
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:06 PM             4,883 018.html
+22-Mar-2011  04:06 PM             5,983 01802.html
+22-Mar-2011  04:06 PM             6,203 01804.html
+22-Mar-2011  04:06 PM             5,983 01806.html
+22-Mar-2011  04:06 PM             6,466 01807.html
+22-Mar-2011  04:06 PM             6,452 01808.html
+22-Mar-2011  04:06 PM             5,955 01811.html
+22-Mar-2011  04:06 PM             6,226 01815.html
+22-Mar-2011  04:06 PM             6,453 01817.html
+22-Mar-2011  04:06 PM             6,207 01818.html
+22-Mar-2011  04:06 PM             6,229 01820.html
+22-Mar-2011  04:06 PM             5,964 01821.html
+22-Mar-2011  04:06 PM             6,240 01822.html
+22-Mar-2011  04:06 PM             6,211 01826.html
+22-Mar-2011  04:06 PM             6,233 01828.html
+22-Mar-2011  04:06 PM             6,209 01829.html
+22-Mar-2011  04:06 PM             6,228 01830.html
+22-Mar-2011  04:06 PM             6,479 01833.html
+22-Mar-2011  04:06 PM             6,213 01834.html
+17-Mar-2011  09:55 AM             4,127 C1018.html
+22-Mar-2011  04:06 PM             4,883 index.html
+              21 File(s)        125,827 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\019
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:06 PM             4,957 019.html
+22-Mar-2011  04:06 PM             5,729 01901.html
+22-Mar-2011  04:06 PM             5,980 01902.html
+22-Mar-2011  04:06 PM             5,745 01903.html
+22-Mar-2011  04:06 PM             5,475 01907.html
+22-Mar-2011  04:06 PM             5,744 01908.html
+22-Mar-2011  04:06 PM             5,976 01909.html
+22-Mar-2011  04:06 PM             5,970 01911.html
+22-Mar-2011  04:06 PM             5,990 01912.html
+22-Mar-2011  04:06 PM             5,973 01913.html
+22-Mar-2011  04:06 PM             5,976 01914.html
+22-Mar-2011  04:06 PM             5,706 01919.html
+22-Mar-2011  04:06 PM             5,990 01920.html
+22-Mar-2011  04:06 PM             5,473 01924.html
+22-Mar-2011  04:06 PM             5,974 01927.html
+22-Mar-2011  04:06 PM             5,993 01928.html
+22-Mar-2011  04:06 PM             6,746 01931.html
+22-Mar-2011  04:06 PM             5,986 01932.html
+22-Mar-2011  04:06 PM             6,266 01934.html
+22-Mar-2011  04:06 PM             5,742 01937.html
+07-Mar-2011  08:28 AM             4,171 C1019.html
+22-Mar-2011  04:06 PM             4,957 index.html
+              22 File(s)        126,519 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\021
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:07 PM             5,211 021.html
+22-Mar-2011  04:07 PM             5,976 02101.html
+22-Mar-2011  04:07 PM             5,986 02102.html
+22-Mar-2011  04:07 PM             6,742 02103.html
+22-Mar-2011  04:07 PM             6,502 02105.html
+22-Mar-2011  04:07 PM             6,259 02107.html
+22-Mar-2011  04:07 PM             7,000 02112.html
+22-Mar-2011  04:07 PM             6,252 02115.html
+22-Mar-2011  04:07 PM             5,762 02116.html
+22-Mar-2011  04:07 PM             6,748 02117.html
+22-Mar-2011  04:07 PM             6,756 02120.html
+22-Mar-2011  04:07 PM             6,489 02121.html
+22-Mar-2011  04:07 PM             6,245 02122.html
+22-Mar-2011  04:07 PM             6,529 02124.html
+22-Mar-2011  04:07 PM             6,505 02125.html
+22-Mar-2011  04:07 PM             5,997 02129.html
+22-Mar-2011  04:07 PM             6,007 02130.html
+22-Mar-2011  04:07 PM             6,234 02132.html
+22-Mar-2011  04:07 PM             6,242 02137.html
+22-Mar-2011  04:07 PM             6,757 02139.html
+22-Mar-2011  04:07 PM             6,509 02140.html
+22-Mar-2011  04:07 PM             6,267 02143.html
+17-Mar-2011  09:55 AM             4,397 C1021.html
+22-Mar-2011  04:07 PM             5,211 index.html
+              24 File(s)        148,583 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\022
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:07 PM             5,458 022.html
+22-Mar-2011  04:07 PM             6,021 02203.html
+22-Mar-2011  04:07 PM             5,764 02207.html
+22-Mar-2011  04:07 PM             5,757 02208.html
+22-Mar-2011  04:07 PM             5,729 02210.html
+22-Mar-2011  04:07 PM             6,028 02212.html
+22-Mar-2011  04:07 PM             6,269 02213.html
+22-Mar-2011  04:07 PM             5,747 02214.html
+22-Mar-2011  04:07 PM             5,762 02217.html
+22-Mar-2011  04:07 PM             6,004 02222.html
+22-Mar-2011  04:07 PM             6,018 02223.html
+22-Mar-2011  04:07 PM             5,509 02224.html
+22-Mar-2011  04:07 PM             6,014 02226.html
+22-Mar-2011  04:07 PM             7,017 02228.html
+22-Mar-2011  04:08 PM             6,024 02229.html
+22-Mar-2011  04:08 PM             5,763 02231.html
+22-Mar-2011  04:08 PM             6,030 02233.html
+22-Mar-2011  04:08 PM             5,762 02235.html
+22-Mar-2011  04:08 PM             6,013 02237.html
+22-Mar-2011  04:08 PM             6,006 02239.html
+22-Mar-2011  04:08 PM             5,752 02240.html
+22-Mar-2011  04:07 PM             5,769 02242.html
+22-Mar-2011  04:08 PM             6,011 02243.html
+22-Mar-2011  04:08 PM             5,533 02246.html
+22-Mar-2011  04:07 PM             6,027 02249.html
+22-Mar-2011  04:08 PM             6,001 02250.html
+22-Mar-2011  04:08 PM             6,781 02252.html
+07-Mar-2011  08:28 AM             4,699 C1022.html
+22-Mar-2011  04:07 PM             5,458 index.html
+              29 File(s)        170,726 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\023
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:08 PM             4,436 023.html
+22-Mar-2011  04:08 PM             5,709 02301.html
+22-Mar-2011  04:08 PM             6,225 02302.html
+22-Mar-2011  04:08 PM             5,976 02303.html
+22-Mar-2011  04:08 PM             5,738 02304.html
+22-Mar-2011  04:08 PM             5,707 02306.html
+22-Mar-2011  04:08 PM             5,997 02307.html
+22-Mar-2011  04:08 PM             5,738 02309.html
+22-Mar-2011  04:08 PM             5,993 02310.html
+22-Mar-2011  04:08 PM             5,479 02317.html
+22-Mar-2011  04:08 PM             5,722 02318.html
+22-Mar-2011  04:08 PM             5,738 02322.html
+22-Mar-2011  04:08 PM             6,001 02323.html
+22-Mar-2011  04:08 PM             5,981 02326.html
+07-Mar-2011  08:28 AM             3,811 C1023.html
+22-Mar-2011  04:08 PM             4,436 index.html
+              16 File(s)         88,687 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\024
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:08 PM             5,511 024.html
+22-Mar-2011  04:08 PM             5,760 02401.html
+22-Mar-2011  04:08 PM             6,779 02403.html
+22-Mar-2011  04:08 PM             5,993 02404.html
+22-Mar-2011  04:08 PM             6,238 02405.html
+22-Mar-2011  04:08 PM             5,989 02406.html
+22-Mar-2011  04:08 PM             6,258 02407.html
+22-Mar-2011  04:08 PM             6,494 02413.html
+22-Mar-2011  04:08 PM             5,743 02415.html
+22-Mar-2011  04:08 PM             6,497 02416.html
+22-Mar-2011  04:08 PM             6,006 02417.html
+22-Mar-2011  04:08 PM             5,996 02418.html
+22-Mar-2011  04:08 PM             5,742 02421.html
+22-Mar-2011  04:08 PM             5,988 02422.html
+22-Mar-2011  04:08 PM             6,011 02423.html
+22-Mar-2011  04:08 PM             7,003 02426.html
+22-Mar-2011  04:08 PM             6,008 02435.html
+22-Mar-2011  04:08 PM             6,253 02436.html
+22-Mar-2011  04:08 PM             6,270 02437.html
+22-Mar-2011  04:08 PM             6,230 02438.html
+22-Mar-2011  04:08 PM             5,984 02443.html
+22-Mar-2011  04:08 PM             5,737 02444.html
+22-Mar-2011  04:08 PM             6,002 02446.html
+22-Mar-2011  04:08 PM             6,260 02447.html
+22-Mar-2011  04:08 PM             6,236 02448.html
+22-Mar-2011  04:08 PM             6,263 02449.html
+22-Mar-2011  04:08 PM             6,270 02450.html
+07-Mar-2011  08:28 AM             4,747 C1024.html
+22-Mar-2011  04:08 PM             5,511 index.html
+              29 File(s)        175,779 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\025
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:09 PM             4,948 025.html
+22-Mar-2011  04:09 PM             6,999 02514.html
+22-Mar-2011  04:09 PM             5,977 02515.html
+22-Mar-2011  04:09 PM             5,711 02516.html
+22-Mar-2011  04:09 PM             5,966 02517.html
+22-Mar-2011  04:09 PM             6,222 02518.html
+22-Mar-2011  04:09 PM             5,750 02519.html
+22-Mar-2011  04:09 PM             6,242 02520.html
+22-Mar-2011  04:09 PM             6,233 02521.html
+22-Mar-2011  04:09 PM             5,968 02522.html
+22-Mar-2011  04:09 PM             5,958 02523.html
+22-Mar-2011  04:09 PM             6,218 02524.html
+22-Mar-2011  04:09 PM             5,465 02525.html
+22-Mar-2011  04:09 PM             6,223 02526.html
+22-Mar-2011  04:09 PM             6,220 02527.html
+22-Mar-2011  04:09 PM             6,242 02529.html
+22-Mar-2011  04:09 PM             6,252 02530.html
+22-Mar-2011  04:09 PM             6,488 02532.html
+22-Mar-2011  04:09 PM             6,459 02534.html
+07-Mar-2011  08:29 AM             4,121 C1025.html
+22-Mar-2011  04:09 PM             4,948 index.html
+              21 File(s)        124,610 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\026
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:09 PM             4,846 026.html
+22-Mar-2011  04:09 PM             6,256 02602.html
+22-Mar-2011  04:09 PM             6,750 02604.html
+22-Mar-2011  04:09 PM             5,474 02606.html
+22-Mar-2011  04:09 PM             5,960 02609.html
+22-Mar-2011  04:09 PM             5,976 02610.html
+22-Mar-2011  04:09 PM             6,211 02612.html
+22-Mar-2011  04:09 PM             5,708 02614.html
+22-Mar-2011  04:09 PM             6,240 02616.html
+22-Mar-2011  04:09 PM             5,718 02617.html
+22-Mar-2011  04:09 PM             6,468 02618.html
+22-Mar-2011  04:09 PM             5,988 02619.html
+22-Mar-2011  04:09 PM             5,452 02620.html
+22-Mar-2011  04:09 PM             6,499 02624.html
+22-Mar-2011  04:09 PM             6,240 02628.html
+22-Mar-2011  04:09 PM             6,473 02630.html
+22-Mar-2011  04:09 PM             6,243 02632.html
+22-Mar-2011  04:09 PM             6,491 02633.html
+22-Mar-2011  04:09 PM             6,995 02636.html
+07-Mar-2011  08:29 AM             4,127 C1026.html
+22-Mar-2011  04:09 PM             4,846 index.html
+              21 File(s)        124,961 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\027
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:09 PM             5,209 027.html
+22-Mar-2011  04:09 PM             6,006 02701.html
+22-Mar-2011  04:09 PM             6,727 02702.html
+22-Mar-2011  04:09 PM             5,954 02703.html
+22-Mar-2011  04:09 PM             5,984 02704.html
+22-Mar-2011  04:09 PM             6,224 02705.html
+22-Mar-2011  04:09 PM             5,971 02706.html
+22-Mar-2011  04:09 PM             6,489 02707.html
+22-Mar-2011  04:09 PM             5,970 02708.html
+22-Mar-2011  04:09 PM             6,483 02711.html
+22-Mar-2011  04:09 PM             5,971 02712.html
+22-Mar-2011  04:09 PM             6,234 02713.html
+22-Mar-2011  04:09 PM             6,207 02714.html
+22-Mar-2011  04:09 PM             6,228 02715.html
+22-Mar-2011  04:09 PM             6,969 02716.html
+22-Mar-2011  04:09 PM             6,207 02719.html
+22-Mar-2011  04:09 PM             6,721 02721.html
+22-Mar-2011  04:09 PM             6,480 02723.html
+22-Mar-2011  04:09 PM             5,962 02725.html
+22-Mar-2011  04:09 PM             5,982 02726.html
+22-Mar-2011  04:09 PM             6,232 02728.html
+22-Mar-2011  04:09 PM             6,730 02738.html
+22-Mar-2011  04:09 PM             5,969 02741.html
+17-Mar-2011  09:55 AM             4,429 C1027.html
+22-Mar-2011  04:09 PM             5,209 index.html
+              25 File(s)        152,547 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\028
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:10 PM             4,724 028.html
+22-Mar-2011  04:10 PM             6,498 02806.html
+22-Mar-2011  04:10 PM             6,265 02807.html
+22-Mar-2011  04:10 PM             6,781 02809.html
+22-Mar-2011  04:10 PM             6,537 02810.html
+22-Mar-2011  04:10 PM             6,262 02814.html
+22-Mar-2011  04:10 PM             6,274 02815.html
+22-Mar-2011  04:10 PM             6,504 02816.html
+22-Mar-2011  04:10 PM             6,272 02818.html
+22-Mar-2011  04:10 PM             6,276 02820.html
+22-Mar-2011  04:10 PM             6,024 02821.html
+22-Mar-2011  04:10 PM             6,011 02823.html
+22-Mar-2011  04:10 PM             6,553 02826.html
+22-Mar-2011  04:10 PM             6,511 02828.html
+22-Mar-2011  04:10 PM             6,508 02830.html
+17-Mar-2011  09:56 AM             3,892 C1028.html
+22-Mar-2011  04:10 PM             4,724 index.html
+              17 File(s)        102,616 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\029
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:10 PM             5,482 029.html
+22-Mar-2011  04:10 PM             6,242 02901.html
+22-Mar-2011  04:10 PM             5,985 02902.html
+22-Mar-2011  04:10 PM             6,263 02903.html
+22-Mar-2011  04:10 PM             6,249 02904.html
+22-Mar-2011  04:10 PM             6,517 02907.html
+22-Mar-2011  04:10 PM             6,503 02910.html
+22-Mar-2011  04:10 PM             6,497 02911.html
+22-Mar-2011  04:10 PM             6,000 02912.html
+22-Mar-2011  04:10 PM             7,003 02915.html
+22-Mar-2011  04:10 PM             5,996 02919.html
+22-Mar-2011  04:10 PM             7,005 02920.html
+22-Mar-2011  04:10 PM             6,007 02924.html
+22-Mar-2011  04:10 PM             6,249 02925.html
+22-Mar-2011  04:10 PM             6,254 02927.html
+22-Mar-2011  04:10 PM             5,986 02929.html
+22-Mar-2011  04:10 PM             5,750 02931.html
+22-Mar-2011  04:10 PM             6,502 02933.html
+22-Mar-2011  04:10 PM             6,509 02934.html
+22-Mar-2011  04:10 PM             6,250 02937.html
+22-Mar-2011  04:10 PM             6,010 02938.html
+22-Mar-2011  04:10 PM             5,755 02940.html
+22-Mar-2011  04:10 PM             6,031 02944.html
+22-Mar-2011  04:10 PM             6,035 02946.html
+22-Mar-2011  04:10 PM             6,260 02947.html
+22-Mar-2011  04:10 PM             6,246 02949.html
+22-Mar-2011  04:10 PM             6,269 02950.html
+22-Mar-2011  04:10 PM             6,508 02953.html
+22-Mar-2011  04:10 PM             6,250 02954.html
+07-Mar-2011  08:30 AM             4,869 C1029.html
+22-Mar-2011  04:10 PM             5,482 index.html
+              31 File(s)        190,964 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\02A
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:06 PM             4,203 02A.html
+22-Mar-2011  04:06 PM             6,487 02A01.html
+22-Mar-2011  04:06 PM             5,990 02A02.html
+22-Mar-2011  04:06 PM             5,737 02A07.html
+22-Mar-2011  04:06 PM             5,734 02A22.html
+22-Mar-2011  04:06 PM             5,239 02A30.html
+22-Mar-2011  04:06 PM             6,241 02A35.html
+22-Mar-2011  04:06 PM             6,016 02A40.html
+22-Mar-2011  04:06 PM             5,217 02A62.html
+22-Mar-2011  04:06 PM             6,490 02A64.html
+22-Mar-2011  04:06 PM             6,242 02A65.html
+22-Mar-2011  04:06 PM             6,482 02A66.html
+17-Mar-2011  09:55 AM             3,611 C102A.html
+22-Mar-2011  04:06 PM             4,203 index.html
+              14 File(s)         77,892 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\02B
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:07 PM             4,531 02B.html
+22-Mar-2011  04:07 PM             6,743 02B03.html
+22-Mar-2011  04:07 PM             5,754 02B05.html
+22-Mar-2011  04:07 PM             6,535 02B09.html
+22-Mar-2011  04:07 PM             6,272 02B10.html
+22-Mar-2011  04:07 PM             5,770 02B14.html
+22-Mar-2011  04:07 PM             5,522 02B16.html
+22-Mar-2011  04:07 PM             5,744 02B17.html
+22-Mar-2011  04:07 PM             5,751 02B20.html
+22-Mar-2011  04:07 PM             5,762 02B25.html
+22-Mar-2011  04:07 PM             6,259 02B29.html
+22-Mar-2011  04:07 PM             6,542 02B41.html
+22-Mar-2011  04:07 PM             6,004 02B42.html
+22-Mar-2011  04:07 PM             5,485 02B58.html
+22-Mar-2011  04:07 PM             6,238 02B67.html
+07-Mar-2011  08:29 AM             3,878 C102B.html
+22-Mar-2011  04:07 PM             4,531 index.html
+              17 File(s)         97,321 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\030
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:11 PM             5,159 030.html
+22-Mar-2011  04:11 PM             6,474 03001.html
+22-Mar-2011  04:11 PM             6,968 03002.html
+22-Mar-2011  04:11 PM             6,483 03003.html
+22-Mar-2011  04:11 PM             5,687 03004.html
+22-Mar-2011  04:11 PM             6,194 03008.html
+22-Mar-2011  04:11 PM             5,959 03010.html
+22-Mar-2011  04:11 PM             5,972 03014.html
+22-Mar-2011  04:11 PM             7,218 03019.html
+22-Mar-2011  04:11 PM             5,982 03020.html
+22-Mar-2011  04:11 PM             6,732 03023.html
+22-Mar-2011  04:11 PM             5,975 03025.html
+22-Mar-2011  04:11 PM             6,738 03026.html
+22-Mar-2011  04:11 PM             6,221 03029.html
+22-Mar-2011  04:11 PM             6,488 03030.html
+22-Mar-2011  04:11 PM             6,248 03032.html
+22-Mar-2011  04:11 PM             5,958 03033.html
+22-Mar-2011  04:11 PM             5,691 03034.html
+22-Mar-2011  04:11 PM             6,967 03035.html
+22-Mar-2011  04:11 PM             6,468 03037.html
+22-Mar-2011  04:11 PM             6,467 03038.html
+22-Mar-2011  04:11 PM             6,468 03039.html
+22-Mar-2011  04:11 PM             6,966 03042.html
+22-Mar-2011  04:11 PM             6,465 03043.html
+07-Mar-2011  08:30 AM             4,454 C1030.html
+22-Mar-2011  04:11 PM             5,159 index.html
+              26 File(s)        161,561 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\031
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:11 PM             5,425 031.html
+22-Mar-2011  04:11 PM             6,004 03102.html
+22-Mar-2011  04:11 PM             6,521 03104.html
+22-Mar-2011  04:11 PM             6,278 03106.html
+22-Mar-2011  04:11 PM             6,503 03107.html
+22-Mar-2011  04:11 PM             6,287 03110.html
+22-Mar-2011  04:11 PM             6,500 03111.html
+22-Mar-2011  04:11 PM             6,519 03112.html
+22-Mar-2011  04:11 PM             6,284 03114.html
+22-Mar-2011  04:11 PM             6,277 03116.html
+22-Mar-2011  04:11 PM             6,005 03117.html
+22-Mar-2011  04:11 PM             6,805 03119.html
+22-Mar-2011  04:11 PM             6,515 03123.html
+22-Mar-2011  04:11 PM             6,497 03125.html
+22-Mar-2011  04:11 PM             6,521 03126.html
+22-Mar-2011  04:11 PM             6,007 03127.html
+22-Mar-2011  04:11 PM             6,782 03129.html
+22-Mar-2011  04:11 PM             6,261 03131.html
+22-Mar-2011  04:11 PM             7,048 03133.html
+22-Mar-2011  04:11 PM             7,019 03135.html
+22-Mar-2011  04:11 PM             6,525 03136.html
+22-Mar-2011  04:11 PM             6,550 03138.html
+22-Mar-2011  04:11 PM             6,781 03142.html
+22-Mar-2011  04:11 PM             7,545 03147.html
+22-Mar-2011  04:11 PM             6,786 03148.html
+22-Mar-2011  04:11 PM             6,281 03149.html
+22-Mar-2011  04:11 PM             6,779 03151.html
+22-Mar-2011  04:11 PM             6,533 03153.html
+07-Mar-2011  08:30 AM             4,777 C1031.html
+22-Mar-2011  04:11 PM             5,425 index.html
+              30 File(s)        192,040 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\032
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:11 PM             4,736 032.html
+22-Mar-2011  04:11 PM             6,472 03202.html
+22-Mar-2011  04:11 PM             5,459 03204.html
+22-Mar-2011  04:11 PM             5,956 03205.html
+22-Mar-2011  04:11 PM             6,213 03208.html
+22-Mar-2011  04:11 PM             6,456 03211.html
+22-Mar-2011  04:11 PM             6,191 03213.html
+22-Mar-2011  04:11 PM             5,953 03215.html
+22-Mar-2011  04:11 PM             5,461 03217.html
+22-Mar-2011  04:11 PM             5,710 03218.html
+22-Mar-2011  04:11 PM             6,451 03221.html
+22-Mar-2011  04:11 PM             5,951 03223.html
+22-Mar-2011  04:11 PM             5,454 03224.html
+22-Mar-2011  04:11 PM             5,711 03225.html
+22-Mar-2011  04:11 PM             5,707 03227.html
+22-Mar-2011  04:11 PM             5,728 03228.html
+22-Mar-2011  04:11 PM             6,240 03230.html
+07-Mar-2011  08:30 AM             3,938 C1032.html
+22-Mar-2011  04:11 PM             4,736 index.html
+              19 File(s)        108,523 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\033
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:12 PM             5,791 033.html
+22-Mar-2011  04:12 PM             6,475 03301.html
+22-Mar-2011  04:12 PM             6,491 03302.html
+22-Mar-2011  04:12 PM             5,972 03303.html
+22-Mar-2011  04:12 PM             6,247 03305.html
+22-Mar-2011  04:12 PM             6,749 03309.html
+22-Mar-2011  04:12 PM             6,231 03313.html
+22-Mar-2011  04:12 PM             6,482 03315.html
+22-Mar-2011  04:12 PM             6,223 03316.html
+22-Mar-2011  04:12 PM             6,223 03317.html
+22-Mar-2011  04:12 PM             6,227 03318.html
+22-Mar-2011  04:12 PM             6,506 03319.html
+22-Mar-2011  04:12 PM             6,763 03320.html
+22-Mar-2011  04:12 PM             6,237 03326.html
+22-Mar-2011  04:12 PM             6,490 03327.html
+22-Mar-2011  04:12 PM             7,012 03330.html
+22-Mar-2011  04:12 PM             5,982 03332.html
+22-Mar-2011  04:12 PM             6,233 03333.html
+22-Mar-2011  04:12 PM             6,497 03335.html
+22-Mar-2011  04:12 PM             5,986 03337.html
+22-Mar-2011  04:12 PM             6,264 03340.html
+22-Mar-2011  04:12 PM             6,260 03342.html
+22-Mar-2011  04:12 PM             5,984 03343.html
+22-Mar-2011  04:12 PM             6,759 03345.html
+22-Mar-2011  04:12 PM             5,998 03347.html
+22-Mar-2011  04:12 PM             5,993 03350.html
+22-Mar-2011  04:12 PM             5,983 03352.html
+22-Mar-2011  04:12 PM             6,009 03353.html
+22-Mar-2011  04:12 PM             6,480 03355.html
+22-Mar-2011  04:12 PM             5,978 03356.html
+22-Mar-2011  04:12 PM             6,494 03358.html
+22-Mar-2011  04:12 PM             6,499 03361.html
+07-Mar-2011  08:31 AM             5,005 C1033.html
+22-Mar-2011  04:12 PM             5,791 index.html
+              34 File(s)        212,314 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\034
+
+23-Mar-2011  02:10 PM    <DIR>          .
+23-Mar-2011  02:10 PM    <DIR>          ..
+22-Mar-2011  04:12 PM             5,382 034.html
+22-Mar-2011  04:12 PM             5,989 03406.html
+22-Mar-2011  04:12 PM             6,498 03407.html
+22-Mar-2011  04:12 PM             5,212 03408.html
+22-Mar-2011  04:12 PM             6,513 03410.html
+22-Mar-2011  04:12 PM             5,974 03413.html
+22-Mar-2011  04:12 PM             6,980 03417.html
+22-Mar-2011  04:12 PM             6,493 03418.html
+22-Mar-2011  04:12 PM             7,001 03419.html
+22-Mar-2011  04:12 PM             6,495 03424.html
+22-Mar-2011  04:12 PM             5,752 03425.html
+22-Mar-2011  04:12 PM             6,471 03426.html
+22-Mar-2011  04:12 PM             6,476 03428.html
+22-Mar-2011  04:12 PM             5,976 03430.html
+22-Mar-2011  04:12 PM             6,000 03431.html
+22-Mar-2011  04:12 PM             6,747 03434.html
+22-Mar-2011  04:12 PM             5,971 03435.html
+22-Mar-2011  04:12 PM             6,242 03437.html
+22-Mar-2011  04:12 PM             6,495 03438.html
+22-Mar-2011  04:12 PM             6,251 03439.html
+22-Mar-2011  04:12 PM             6,999 03441.html
+22-Mar-2011  04:12 PM             6,735 03443.html
+22-Mar-2011  04:12 PM             6,497 03445.html
+22-Mar-2011  04:12 PM             6,497 03446.html
+22-Mar-2011  04:12 PM             6,502 03447.html
+22-Mar-2011  04:12 PM             6,479 03448.html
+22-Mar-2011  04:12 PM             6,743 03449.html
+17-Mar-2011  06:17 PM             4,689 C1034.html
+22-Mar-2011  04:12 PM             5,382 index.html
+              29 File(s)        181,441 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\035
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:13 PM             5,580 035.html
+22-Mar-2011  04:13 PM             6,043 03503.html
+22-Mar-2011  04:13 PM             6,022 03504.html
+22-Mar-2011  04:13 PM             6,267 03505.html
+22-Mar-2011  04:13 PM             6,019 03506.html
+22-Mar-2011  04:13 PM             6,272 03509.html
+22-Mar-2011  04:13 PM             6,285 03513.html
+22-Mar-2011  04:13 PM             6,523 03514.html
+22-Mar-2011  04:13 PM             6,265 03517.html
+22-Mar-2011  04:13 PM             6,523 03519.html
+22-Mar-2011  04:13 PM             6,548 03520.html
+22-Mar-2011  04:13 PM             6,271 03525.html
+22-Mar-2011  04:13 PM             6,292 03526.html
+22-Mar-2011  04:13 PM             6,542 03527.html
+22-Mar-2011  04:13 PM             6,786 03529.html
+22-Mar-2011  04:13 PM             6,550 03530.html
+22-Mar-2011  04:13 PM             7,284 03532.html
+22-Mar-2011  04:13 PM             6,267 03533.html
+22-Mar-2011  04:13 PM             6,042 03534.html
+22-Mar-2011  04:13 PM             6,304 03536.html
+22-Mar-2011  04:13 PM             7,308 03539.html
+22-Mar-2011  04:13 PM             6,278 03540.html
+22-Mar-2011  04:13 PM             6,272 03543.html
+22-Mar-2011  04:13 PM             6,284 03545.html
+22-Mar-2011  04:13 PM             6,540 03546.html
+22-Mar-2011  04:13 PM             6,263 03547.html
+22-Mar-2011  04:13 PM             7,038 03550.html
+22-Mar-2011  04:13 PM             6,042 03553.html
+07-Mar-2011  08:31 AM             4,826 C1035.html
+22-Mar-2011  04:13 PM             5,580 index.html
+              30 File(s)        189,116 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\036
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:13 PM             4,641 036.html
+22-Mar-2011  04:13 PM             5,718 03601.html
+22-Mar-2011  04:13 PM             6,490 03603.html
+22-Mar-2011  04:13 PM             6,223 03610.html
+22-Mar-2011  04:13 PM             5,741 03611.html
+22-Mar-2011  04:13 PM             6,485 03612.html
+22-Mar-2011  04:13 PM             6,248 03615.html
+22-Mar-2011  04:13 PM             6,004 03618.html
+22-Mar-2011  04:13 PM             6,234 03619.html
+22-Mar-2011  04:13 PM             6,005 03620.html
+22-Mar-2011  04:13 PM             5,993 03621.html
+22-Mar-2011  04:13 PM             6,228 03622.html
+22-Mar-2011  04:13 PM             6,491 03624.html
+22-Mar-2011  04:13 PM             6,746 03625.html
+07-Mar-2011  08:31 AM             3,835 C1036.html
+22-Mar-2011  04:13 PM             4,641 index.html
+              16 File(s)         93,723 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\037
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:13 PM             4,942 037.html
+22-Mar-2011  04:13 PM             7,027 03702.html
+22-Mar-2011  04:13 PM             7,293 03703.html
+22-Mar-2011  04:13 PM             6,018 03704.html
+22-Mar-2011  04:13 PM             6,297 03705.html
+22-Mar-2011  04:13 PM             6,038 03708.html
+22-Mar-2011  04:13 PM             6,035 03710.html
+22-Mar-2011  04:13 PM             7,019 03712.html
+22-Mar-2011  04:13 PM             6,271 03714.html
+22-Mar-2011  04:13 PM             6,018 03715.html
+22-Mar-2011  04:13 PM             6,270 03717.html
+22-Mar-2011  04:13 PM             6,269 03719.html
+22-Mar-2011  04:13 PM             6,279 03722.html
+22-Mar-2011  04:13 PM             6,537 03723.html
+22-Mar-2011  04:13 PM             6,529 03725.html
+22-Mar-2011  04:13 PM             7,020 03726.html
+22-Mar-2011  04:13 PM             6,532 03733.html
+22-Mar-2011  04:13 PM             6,540 03735.html
+22-Mar-2011  04:13 PM             6,771 03736.html
+22-Mar-2011  04:13 PM             6,540 03737.html
+07-Mar-2011  08:31 AM             4,235 C1037.html
+22-Mar-2011  04:13 PM             4,942 index.html
+              22 File(s)        137,422 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\038
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:14 PM             5,644 038.html
+22-Mar-2011  04:14 PM             6,243 03803.html
+22-Mar-2011  04:14 PM             6,262 03804.html
+22-Mar-2011  04:14 PM             5,945 03805.html
+22-Mar-2011  04:14 PM             5,712 03806.html
+22-Mar-2011  04:14 PM             6,480 03808.html
+22-Mar-2011  04:14 PM             6,475 03811.html
+22-Mar-2011  04:14 PM             6,998 03812.html
+22-Mar-2011  04:14 PM             6,967 03814.html
+22-Mar-2011  04:14 PM             6,981 03815.html
+22-Mar-2011  04:14 PM             6,208 03816.html
+22-Mar-2011  04:14 PM             6,250 03818.html
+22-Mar-2011  04:14 PM             6,482 03819.html
+22-Mar-2011  04:14 PM             6,218 03820.html
+22-Mar-2011  04:14 PM             6,245 03824.html
+22-Mar-2011  04:14 PM             6,249 03827.html
+22-Mar-2011  04:14 PM             6,262 03828.html
+22-Mar-2011  04:14 PM             5,985 03830.html
+22-Mar-2011  04:14 PM             6,258 03832.html
+22-Mar-2011  04:14 PM             5,969 03835.html
+22-Mar-2011  04:14 PM             5,203 03836.html
+22-Mar-2011  04:14 PM             6,497 03837.html
+22-Mar-2011  04:14 PM             6,489 03839.html
+22-Mar-2011  04:14 PM             5,982 03841.html
+22-Mar-2011  04:14 PM             6,214 03842.html
+22-Mar-2011  04:14 PM             6,238 03845.html
+22-Mar-2011  04:14 PM             6,489 03847.html
+22-Mar-2011  04:14 PM             6,494 03851.html
+22-Mar-2011  04:14 PM             6,497 03852.html
+22-Mar-2011  04:14 PM             7,223 03857.html
+07-Mar-2011  08:32 AM             4,922 C1038.html
+22-Mar-2011  04:14 PM             5,644 index.html
+              32 File(s)        199,725 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\039
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:14 PM             4,822 039.html
+22-Mar-2011  04:14 PM             6,210 03901.html
+22-Mar-2011  04:14 PM             5,957 03902.html
+22-Mar-2011  04:14 PM             5,960 03903.html
+22-Mar-2011  04:14 PM             5,463 03905.html
+22-Mar-2011  04:14 PM             6,718 03909.html
+22-Mar-2011  04:14 PM             6,492 03910.html
+22-Mar-2011  04:14 PM             6,205 03912.html
+22-Mar-2011  04:14 PM             6,488 03913.html
+22-Mar-2011  04:14 PM             6,752 03915.html
+22-Mar-2011  04:14 PM             5,993 03916.html
+22-Mar-2011  04:14 PM             5,712 03917.html
+22-Mar-2011  04:14 PM             6,499 03918.html
+22-Mar-2011  04:14 PM             6,203 03919.html
+22-Mar-2011  04:14 PM             5,949 03920.html
+22-Mar-2011  04:14 PM             5,724 03922.html
+22-Mar-2011  04:14 PM             5,960 03930.html
+22-Mar-2011  04:14 PM             6,226 03931.html
+07-Mar-2011  08:32 AM             4,063 C1039.html
+22-Mar-2011  04:14 PM             4,822 index.html
+              20 File(s)        118,218 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\040
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:15 PM             4,653 040.html
+22-Mar-2011  04:15 PM             5,724 04002.html
+22-Mar-2011  04:15 PM             5,973 04003.html
+22-Mar-2011  04:15 PM             5,979 04004.html
+22-Mar-2011  04:15 PM             6,211 04005.html
+22-Mar-2011  04:15 PM             5,975 04006.html
+22-Mar-2011  04:15 PM             6,229 04008.html
+22-Mar-2011  04:15 PM             5,966 04009.html
+22-Mar-2011  04:15 PM             5,724 04010.html
+22-Mar-2011  04:15 PM             6,243 04011.html
+22-Mar-2011  04:15 PM             5,981 04013.html
+22-Mar-2011  04:15 PM             5,973 04016.html
+22-Mar-2011  04:15 PM             5,956 04017.html
+22-Mar-2011  04:15 PM             6,273 04023.html
+22-Mar-2011  04:15 PM             6,506 04026.html
+22-Mar-2011  04:15 PM             6,765 04030.html
+07-Mar-2011  08:32 AM             3,890 C1040.html
+22-Mar-2011  04:15 PM             4,653 index.html
+              18 File(s)        104,674 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\041
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:15 PM             4,643 041.html
+22-Mar-2011  04:15 PM             6,496 04102.html
+22-Mar-2011  04:15 PM             6,008 04103.html
+22-Mar-2011  04:15 PM             6,255 04108.html
+22-Mar-2011  04:15 PM             6,257 04111.html
+22-Mar-2011  04:15 PM             6,522 04112.html
+22-Mar-2011  04:15 PM             6,264 04113.html
+22-Mar-2011  04:15 PM             6,018 04115.html
+22-Mar-2011  04:15 PM             6,027 04116.html
+22-Mar-2011  04:15 PM             6,542 04117.html
+22-Mar-2011  04:15 PM             6,767 04120.html
+22-Mar-2011  04:15 PM             6,274 04121.html
+22-Mar-2011  04:15 PM             6,507 04125.html
+22-Mar-2011  04:15 PM             6,501 04126.html
+22-Mar-2011  04:15 PM             6,519 04128.html
+22-Mar-2011  04:15 PM             6,290 04129.html
+17-Mar-2011  09:56 AM             3,958 C1041.html
+22-Mar-2011  04:15 PM             4,643 index.html
+              18 File(s)        108,491 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\042
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:15 PM             5,131 042.html
+22-Mar-2011  04:15 PM             5,994 04201.html
+22-Mar-2011  04:15 PM             5,985 04203.html
+22-Mar-2011  04:15 PM             5,994 04206.html
+22-Mar-2011  04:15 PM             5,963 04207.html
+22-Mar-2011  04:15 PM             6,486 04209.html
+22-Mar-2011  04:15 PM             5,972 04212.html
+22-Mar-2011  04:15 PM             6,228 04214.html
+22-Mar-2011  04:15 PM             6,489 04215.html
+22-Mar-2011  04:15 PM             6,234 04216.html
+22-Mar-2011  04:15 PM             5,983 04217.html
+22-Mar-2011  04:15 PM             6,254 04218.html
+22-Mar-2011  04:15 PM             6,250 04219.html
+22-Mar-2011  04:15 PM             5,983 04224.html
+22-Mar-2011  04:15 PM             5,983 04225.html
+22-Mar-2011  04:15 PM             6,243 04227.html
+22-Mar-2011  04:15 PM             6,490 04228.html
+22-Mar-2011  04:15 PM             6,500 04230.html
+22-Mar-2011  04:15 PM             7,005 04237.html
+22-Mar-2011  04:15 PM             6,512 04238.html
+22-Mar-2011  04:15 PM             6,762 04239.html
+22-Mar-2011  04:15 PM             6,496 04240.html
+17-Mar-2011  06:52 PM             4,457 C1042.html
+22-Mar-2011  04:15 PM             5,131 index.html
+              24 File(s)        146,525 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\043
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:16 PM             4,709 043.html
+22-Mar-2011  04:16 PM             5,986 04302.html
+22-Mar-2011  04:16 PM             6,481 04304.html
+22-Mar-2011  04:16 PM             6,260 04305.html
+22-Mar-2011  04:16 PM             5,743 04309.html
+22-Mar-2011  04:16 PM             6,016 04311.html
+22-Mar-2011  04:16 PM             5,739 04312.html
+22-Mar-2011  04:16 PM             6,027 04314.html
+22-Mar-2011  04:16 PM             5,772 04315.html
+22-Mar-2011  04:16 PM             6,255 04318.html
+22-Mar-2011  04:16 PM             6,528 04323.html
+22-Mar-2011  04:16 PM             6,001 04324.html
+22-Mar-2011  04:16 PM             5,991 04325.html
+22-Mar-2011  04:16 PM             5,765 04326.html
+22-Mar-2011  04:16 PM             6,242 04327.html
+22-Mar-2011  04:16 PM             6,516 04331.html
+22-Mar-2011  04:16 PM             6,268 04332.html
+22-Mar-2011  04:16 PM             5,753 04335.html
+07-Mar-2011  08:33 AM             4,101 C1043.html
+22-Mar-2011  04:16 PM             4,709 index.html
+              20 File(s)        116,862 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\044
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:16 PM             5,671 044.html
+22-Mar-2011  04:16 PM             6,052 04401.html
+22-Mar-2011  04:16 PM             6,278 04402.html
+22-Mar-2011  04:16 PM             6,523 04403.html
+22-Mar-2011  04:16 PM             6,031 04406.html
+22-Mar-2011  04:16 PM             6,273 04409.html
+22-Mar-2011  04:16 PM             6,013 04411.html
+22-Mar-2011  04:16 PM             6,285 04412.html
+22-Mar-2011  04:16 PM             6,023 04414.html
+22-Mar-2011  04:16 PM             7,307 04417.html
+22-Mar-2011  04:16 PM             6,531 04420.html
+22-Mar-2011  04:16 PM             7,049 04422.html
+22-Mar-2011  04:16 PM             6,031 04424.html
+22-Mar-2011  04:16 PM             6,016 04426.html
+22-Mar-2011  04:16 PM             6,799 04427.html
+22-Mar-2011  04:16 PM             7,041 04429.html
+22-Mar-2011  04:16 PM             6,541 04432.html
+22-Mar-2011  04:16 PM             6,265 04433.html
+22-Mar-2011  04:16 PM             6,277 04434.html
+22-Mar-2011  04:16 PM             6,569 04435.html
+22-Mar-2011  04:16 PM             7,289 04439.html
+22-Mar-2011  04:16 PM             6,575 04442.html
+22-Mar-2011  04:16 PM             7,052 04443.html
+22-Mar-2011  04:16 PM             6,519 04445.html
+22-Mar-2011  04:16 PM             6,534 04446.html
+22-Mar-2011  04:16 PM             6,539 04449.html
+22-Mar-2011  04:16 PM             7,056 04452.html
+22-Mar-2011  04:16 PM             6,294 04453.html
+22-Mar-2011  04:16 PM             6,043 04454.html
+22-Mar-2011  04:16 PM             7,320 04457.html
+22-Mar-2011  04:16 PM             6,548 04458.html
+14-Mar-2011  04:38 PM             4,999 C1044.html
+22-Mar-2011  04:16 PM             5,671 index.html
+              33 File(s)        212,014 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\045
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:16 PM             5,083 045.html
+22-Mar-2011  04:16 PM             6,208 04501.html
+22-Mar-2011  04:16 PM             5,972 04505.html
+22-Mar-2011  04:16 PM             6,260 04506.html
+22-Mar-2011  04:16 PM             6,235 04507.html
+22-Mar-2011  04:16 PM             6,242 04509.html
+22-Mar-2011  04:16 PM             5,972 04515.html
+22-Mar-2011  04:16 PM             6,225 04516.html
+22-Mar-2011  04:16 PM             5,972 04517.html
+22-Mar-2011  04:16 PM             5,980 04518.html
+22-Mar-2011  04:16 PM             5,974 04519.html
+22-Mar-2011  04:16 PM             6,250 04521.html
+22-Mar-2011  04:16 PM             7,007 04523.html
+22-Mar-2011  04:16 PM             5,969 04528.html
+22-Mar-2011  04:16 PM             5,967 04529.html
+22-Mar-2011  04:16 PM             6,221 04530.html
+22-Mar-2011  04:16 PM             5,991 04531.html
+22-Mar-2011  04:16 PM             6,003 04533.html
+22-Mar-2011  04:16 PM             6,249 04534.html
+22-Mar-2011  04:16 PM             6,255 04536.html
+22-Mar-2011  04:16 PM             6,013 04540.html
+07-Mar-2011  08:33 AM             4,299 C1045.html
+22-Mar-2011  04:16 PM             5,083 index.html
+              23 File(s)        137,430 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\046
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:17 PM             4,634 046.html
+22-Mar-2011  04:17 PM             6,223 04602.html
+22-Mar-2011  04:17 PM             6,466 04603.html
+22-Mar-2011  04:17 PM             5,962 04604.html
+22-Mar-2011  04:17 PM             6,205 04607.html
+22-Mar-2011  04:17 PM             5,968 04608.html
+22-Mar-2011  04:17 PM             5,962 04609.html
+22-Mar-2011  04:17 PM             5,703 04611.html
+22-Mar-2011  04:17 PM             5,730 04613.html
+22-Mar-2011  04:17 PM             5,688 04616.html
+22-Mar-2011  04:17 PM             6,215 04619.html
+22-Mar-2011  04:17 PM             5,965 04620.html
+22-Mar-2011  04:17 PM             5,696 04622.html
+22-Mar-2011  04:17 PM             5,952 04626.html
+22-Mar-2011  04:17 PM             6,208 04628.html
+22-Mar-2011  04:17 PM             5,452 04630.html
+22-Mar-2011  04:17 PM             6,210 04631.html
+07-Mar-2011  08:33 AM             3,943 C1046.html
+22-Mar-2011  04:17 PM             4,634 index.html
+              19 File(s)        108,816 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\047
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:17 PM             4,921 047.html
+22-Mar-2011  04:17 PM             6,277 04702.html
+22-Mar-2011  04:17 PM             6,259 04704.html
+22-Mar-2011  04:17 PM             5,505 04705.html
+22-Mar-2011  04:17 PM             6,016 04706.html
+22-Mar-2011  04:17 PM             6,029 04710.html
+22-Mar-2011  04:17 PM             5,756 04711.html
+22-Mar-2011  04:17 PM             6,264 04713.html
+22-Mar-2011  04:17 PM             5,997 04714.html
+22-Mar-2011  04:17 PM             6,025 04716.html
+22-Mar-2011  04:17 PM             6,265 04719.html
+22-Mar-2011  04:17 PM             6,044 04721.html
+22-Mar-2011  04:17 PM             6,008 04722.html
+22-Mar-2011  04:17 PM             6,017 04724.html
+22-Mar-2011  04:17 PM             6,510 04728.html
+22-Mar-2011  04:17 PM             6,792 04730.html
+22-Mar-2011  04:17 PM             6,029 04732.html
+22-Mar-2011  04:17 PM             6,542 04734.html
+22-Mar-2011  04:17 PM             6,524 04737.html
+22-Mar-2011  04:17 PM             6,811 04739.html
+22-Mar-2011  04:17 PM             6,526 04740.html
+17-Mar-2011  05:19 PM             4,289 C1047.html
+22-Mar-2011  04:17 PM             4,921 index.html
+              23 File(s)        138,327 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\048
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:17 PM             4,387 048.html
+22-Mar-2011  04:17 PM             5,975 04801.html
+22-Mar-2011  04:17 PM             5,714 04805.html
+22-Mar-2011  04:17 PM             5,484 04806.html
+22-Mar-2011  04:17 PM             5,723 04808.html
+22-Mar-2011  04:17 PM             5,482 04810.html
+22-Mar-2011  04:17 PM             5,979 04811.html
+22-Mar-2011  04:17 PM             5,457 04816.html
+22-Mar-2011  04:17 PM             5,477 04817.html
+22-Mar-2011  04:17 PM             5,990 04819.html
+22-Mar-2011  04:17 PM             5,467 04821.html
+22-Mar-2011  04:17 PM             5,250 04822.html
+22-Mar-2011  04:17 PM             5,706 04824.html
+07-Mar-2011  08:34 AM             3,723 C1048.html
+22-Mar-2011  04:17 PM             4,387 index.html
+              15 File(s)         80,201 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\049
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:18 PM             5,029 049.html
+22-Mar-2011  04:18 PM             6,271 04904.html
+22-Mar-2011  04:18 PM             5,752 04907.html
+22-Mar-2011  04:18 PM             6,049 04908.html
+22-Mar-2011  04:18 PM             6,036 04912.html
+22-Mar-2011  04:18 PM             6,035 04913.html
+22-Mar-2011  04:18 PM             6,265 04914.html
+22-Mar-2011  04:18 PM             6,509 04915.html
+22-Mar-2011  04:18 PM             6,278 04921.html
+22-Mar-2011  04:18 PM             6,285 04923.html
+22-Mar-2011  04:18 PM             5,770 04924.html
+22-Mar-2011  04:18 PM             5,554 04925.html
+22-Mar-2011  04:18 PM             6,306 04926.html
+22-Mar-2011  04:18 PM             5,751 04927.html
+22-Mar-2011  04:18 PM             6,528 04928.html
+22-Mar-2011  04:18 PM             6,528 04929.html
+22-Mar-2011  04:18 PM             6,010 04930.html
+22-Mar-2011  04:18 PM             5,769 04935.html
+22-Mar-2011  04:18 PM             6,533 04936.html
+22-Mar-2011  04:18 PM             6,775 04937.html
+22-Mar-2011  04:18 PM             6,528 04938.html
+07-Mar-2011  08:34 AM             4,289 C1049.html
+22-Mar-2011  04:18 PM             5,029 index.html
+              23 File(s)        137,879 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\050
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:18 PM             5,582 050.html
+22-Mar-2011  04:18 PM             5,751 05003.html
+22-Mar-2011  04:18 PM             5,980 05004.html
+22-Mar-2011  04:18 PM             5,714 05005.html
+22-Mar-2011  04:18 PM             6,230 05006.html
+22-Mar-2011  04:18 PM             6,229 05007.html
+22-Mar-2011  04:18 PM             5,972 05009.html
+22-Mar-2011  04:18 PM             6,483 05012.html
+22-Mar-2011  04:18 PM             6,235 05016.html
+22-Mar-2011  04:18 PM             6,235 05018.html
+22-Mar-2011  04:18 PM             5,748 05019.html
+22-Mar-2011  04:18 PM             5,954 05026.html
+22-Mar-2011  04:18 PM             5,217 05027.html
+22-Mar-2011  04:18 PM             5,730 05029.html
+22-Mar-2011  04:18 PM             5,475 05033.html
+22-Mar-2011  04:18 PM             5,988 05034.html
+22-Mar-2011  04:18 PM             5,753 05036.html
+22-Mar-2011  04:18 PM             5,990 05037.html
+22-Mar-2011  04:18 PM             6,258 05038.html
+22-Mar-2011  04:18 PM             5,477 05043.html
+22-Mar-2011  04:18 PM             5,735 05044.html
+22-Mar-2011  04:18 PM             7,007 05046.html
+22-Mar-2011  04:18 PM             6,219 05047.html
+22-Mar-2011  04:18 PM             6,253 05048.html
+22-Mar-2011  04:18 PM             6,239 05049.html
+22-Mar-2011  04:18 PM             6,004 05050.html
+22-Mar-2011  04:18 PM             6,980 05052.html
+07-Mar-2011  08:34 AM             4,744 C1050.html
+22-Mar-2011  04:18 PM             5,582 index.html
+              29 File(s)        172,764 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\051
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:18 PM             5,231 051.html
+22-Mar-2011  04:18 PM             5,956 05102.html
+22-Mar-2011  04:18 PM             6,232 05104.html
+22-Mar-2011  04:18 PM             5,742 05107.html
+22-Mar-2011  04:18 PM             5,723 05110.html
+22-Mar-2011  04:18 PM             6,229 05111.html
+22-Mar-2011  04:18 PM             6,224 05113.html
+22-Mar-2011  04:18 PM             6,219 05118.html
+22-Mar-2011  04:18 PM             6,227 05119.html
+22-Mar-2011  04:18 PM             6,720 05121.html
+22-Mar-2011  04:18 PM             6,232 05123.html
+22-Mar-2011  04:18 PM             5,746 05124.html
+22-Mar-2011  04:18 PM             5,969 05125.html
+22-Mar-2011  04:18 PM             5,959 05127.html
+22-Mar-2011  04:18 PM             5,989 05128.html
+22-Mar-2011  04:18 PM             5,988 05131.html
+22-Mar-2011  04:18 PM             6,243 05134.html
+22-Mar-2011  04:18 PM             6,233 05135.html
+22-Mar-2011  04:18 PM             6,722 05137.html
+22-Mar-2011  04:18 PM             6,228 05139.html
+22-Mar-2011  04:18 PM             6,973 05141.html
+22-Mar-2011  04:18 PM             6,478 05142.html
+22-Mar-2011  04:18 PM             6,240 05143.html
+07-Mar-2011  08:34 AM             4,452 C1051.html
+22-Mar-2011  04:18 PM             5,231 index.html
+              25 File(s)        151,186 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\052
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:19 PM             4,813 052.html
+22-Mar-2011  04:19 PM             6,001 05202.html
+22-Mar-2011  04:19 PM             5,987 05203.html
+22-Mar-2011  04:19 PM             5,766 05206.html
+22-Mar-2011  04:19 PM             6,015 05207.html
+22-Mar-2011  04:19 PM             6,262 05211.html
+22-Mar-2011  04:19 PM             5,752 05212.html
+22-Mar-2011  04:19 PM             6,008 05214.html
+22-Mar-2011  04:19 PM             6,488 05216.html
+22-Mar-2011  04:19 PM             6,008 05217.html
+22-Mar-2011  04:19 PM             6,256 05218.html
+22-Mar-2011  04:19 PM             5,995 05223.html
+22-Mar-2011  04:19 PM             5,767 05225.html
+22-Mar-2011  04:19 PM             5,736 05227.html
+22-Mar-2011  04:19 PM             5,986 05228.html
+22-Mar-2011  04:19 PM             5,767 05230.html
+22-Mar-2011  04:19 PM             5,764 05231.html
+07-Mar-2011  08:34 AM             4,022 C1052.html
+22-Mar-2011  04:19 PM             4,813 index.html
+              19 File(s)        109,206 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\053
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:19 PM             4,803 053.html
+22-Mar-2011  04:19 PM             5,998 05301.html
+22-Mar-2011  04:19 PM             5,729 05305.html
+22-Mar-2011  04:19 PM             5,742 05307.html
+22-Mar-2011  04:19 PM             6,487 05309.html
+21-Mar-2011  03:51 PM             5,979 05310.html
+22-Mar-2011  04:19 PM             6,229 05312.html
+22-Mar-2011  04:19 PM             5,479 05315.html
+22-Mar-2011  04:19 PM             5,751 05317.html
+22-Mar-2011  04:19 PM             5,749 05318.html
+22-Mar-2011  04:19 PM             5,973 05319.html
+22-Mar-2011  04:19 PM             6,508 05320.html
+22-Mar-2011  04:19 PM             5,483 05321.html
+22-Mar-2011  04:19 PM             6,008 05325.html
+22-Mar-2011  04:19 PM             5,999 05329.html
+22-Mar-2011  04:19 PM             5,984 05330.html
+22-Mar-2011  04:19 PM             5,751 05331.html
+22-Mar-2011  04:19 PM             5,997 05332.html
+07-Mar-2011  08:35 AM             4,083 C1053.html
+22-Mar-2011  04:19 PM             4,803 index.html
+              20 File(s)        114,535 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\054
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:19 PM             5,262 054.html
+22-Mar-2011  04:19 PM             6,270 05401.html
+22-Mar-2011  04:19 PM             6,545 05402.html
+22-Mar-2011  04:19 PM             6,276 05404.html
+22-Mar-2011  04:19 PM             6,518 05406.html
+22-Mar-2011  04:19 PM             5,801 05410.html
+22-Mar-2011  04:19 PM             6,321 05411.html
+22-Mar-2011  04:19 PM             6,282 05414.html
+22-Mar-2011  04:19 PM             6,557 05417.html
+22-Mar-2011  04:19 PM             6,307 05419.html
+22-Mar-2011  04:19 PM             6,298 05420.html
+22-Mar-2011  04:19 PM             6,043 05422.html
+22-Mar-2011  04:19 PM             6,516 05423.html
+20-Mar-2011  09:25 PM             6,560 05424.html
+22-Mar-2011  04:19 PM             6,587 05425.html
+22-Mar-2011  04:19 PM             5,810 05426.html
+22-Mar-2011  04:19 PM             6,034 05428.html
+22-Mar-2011  04:19 PM             5,779 05430.html
+22-Mar-2011  04:19 PM             5,537 05431.html
+22-Mar-2011  04:19 PM             6,034 05437.html
+22-Mar-2011  04:19 PM             6,316 05438.html
+22-Mar-2011  04:19 PM             6,557 05440.html
+22-Mar-2011  04:19 PM             6,044 05443.html
+17-Mar-2011  09:56 AM             4,460 C1054.html
+22-Mar-2011  04:19 PM             5,262 index.html
+              25 File(s)        151,976 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\055
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:20 PM             4,851 055.html
+22-Mar-2011  04:20 PM             5,723 05501.html
+22-Mar-2011  04:20 PM             6,973 05502.html
+22-Mar-2011  04:20 PM             6,233 05503.html
+22-Mar-2011  04:20 PM             6,711 05507.html
+22-Mar-2011  04:20 PM             6,000 05510.html
+22-Mar-2011  04:20 PM             5,712 05512.html
+22-Mar-2011  04:20 PM             5,731 05515.html
+22-Mar-2011  04:20 PM             6,222 05517.html
+22-Mar-2011  04:20 PM             5,974 05519.html
+22-Mar-2011  04:20 PM             5,467 05521.html
+22-Mar-2011  04:20 PM             5,489 05522.html
+22-Mar-2011  04:20 PM             5,972 05523.html
+22-Mar-2011  04:20 PM             5,724 05524.html
+22-Mar-2011  04:20 PM             5,721 05525.html
+22-Mar-2011  04:20 PM             6,720 05530.html
+07-Mar-2011  08:35 AM             3,943 C1055.html
+22-Mar-2011  04:20 PM             4,851 index.html
+              18 File(s)        104,017 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\056
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:20 PM             5,078 056.html
+22-Mar-2011  04:20 PM             5,735 05609.html
+22-Mar-2011  04:20 PM             5,764 05612.html
+22-Mar-2011  04:20 PM             6,233 05616.html
+22-Mar-2011  04:20 PM             6,753 05618.html
+22-Mar-2011  04:20 PM             5,983 05621.html
+22-Mar-2011  04:20 PM             5,989 05623.html
+22-Mar-2011  04:20 PM             6,509 05625.html
+22-Mar-2011  04:20 PM             6,510 05626.html
+22-Mar-2011  04:20 PM             6,760 05628.html
+22-Mar-2011  04:20 PM             6,224 05629.html
+22-Mar-2011  04:20 PM             6,484 05630.html
+22-Mar-2011  04:20 PM             5,999 05631.html
+20-Mar-2011  09:57 PM             5,510 05632.html
+22-Mar-2011  04:20 PM             6,471 05633.html
+22-Mar-2011  04:20 PM             6,520 05634.html
+22-Mar-2011  04:20 PM             6,488 05635.html
+22-Mar-2011  04:20 PM             5,503 05636.html
+22-Mar-2011  04:20 PM             6,508 05638.html
+22-Mar-2011  04:20 PM             6,756 05639.html
+22-Mar-2011  04:20 PM             6,246 05640.html
+22-Mar-2011  04:20 PM             6,730 05642.html
+07-Mar-2011  08:35 AM             4,335 C1056.html
+22-Mar-2011  04:20 PM             5,078 index.html
+              24 File(s)        146,166 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\057
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:21 PM             5,585 057.html
+22-Mar-2011  04:21 PM             6,481 05702.html
+22-Mar-2011  04:21 PM             6,001 05703.html
+22-Mar-2011  04:21 PM             6,745 05705.html
+22-Mar-2011  04:21 PM             7,007 05706.html
+22-Mar-2011  04:21 PM             6,723 05707.html
+22-Mar-2011  04:21 PM             6,482 05711.html
+22-Mar-2011  04:21 PM             6,487 05712.html
+22-Mar-2011  04:21 PM             6,768 05713.html
+22-Mar-2011  04:21 PM             6,235 05716.html
+22-Mar-2011  04:21 PM             6,736 05717.html
+22-Mar-2011  04:21 PM             7,233 05718.html
+22-Mar-2011  04:21 PM             6,515 05720.html
+22-Mar-2011  04:21 PM             6,494 05729.html
+22-Mar-2011  04:21 PM             6,499 05730.html
+22-Mar-2011  04:21 PM             5,985 05734.html
+22-Mar-2011  04:21 PM             7,002 05737.html
+22-Mar-2011  04:21 PM             6,471 05738.html
+22-Mar-2011  04:21 PM             6,253 05741.html
+22-Mar-2011  04:21 PM             6,219 05742.html
+22-Mar-2011  04:21 PM             6,262 05743.html
+22-Mar-2011  04:21 PM             6,726 05744.html
+22-Mar-2011  04:21 PM             6,478 05745.html
+22-Mar-2011  04:21 PM             7,007 05748.html
+22-Mar-2011  04:21 PM             6,503 05749.html
+22-Mar-2011  04:21 PM             6,519 05750.html
+22-Mar-2011  04:21 PM             6,253 05751.html
+07-Mar-2011  08:36 AM             4,676 C1057.html
+22-Mar-2011  04:21 PM             5,585 index.html
+              29 File(s)        185,930 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\058
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:21 PM             4,672 058.html
+22-Mar-2011  04:21 PM             6,262 05802.html
+22-Mar-2011  04:21 PM             5,973 05806.html
+22-Mar-2011  04:21 PM             6,220 05808.html
+22-Mar-2011  04:21 PM             5,712 05809.html
+22-Mar-2011  04:21 PM             6,218 05811.html
+22-Mar-2011  04:21 PM             6,469 05813.html
+22-Mar-2011  04:21 PM             5,984 05814.html
+22-Mar-2011  04:21 PM             6,479 05819.html
+22-Mar-2011  04:21 PM             6,484 05823.html
+22-Mar-2011  04:21 PM             6,210 05824.html
+22-Mar-2011  04:21 PM             5,971 05825.html
+22-Mar-2011  04:21 PM             5,972 05827.html
+22-Mar-2011  04:21 PM             6,737 05828.html
+22-Mar-2011  04:21 PM             6,484 05829.html
+22-Mar-2011  04:21 PM             6,477 05830.html
+22-Mar-2011  04:21 PM             6,466 05832.html
+07-Mar-2011  08:36 AM             3,948 C1058.html
+22-Mar-2011  04:21 PM             4,672 index.html
+              19 File(s)        113,410 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\059
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:22 PM             6,554 059.html
+22-Mar-2011  04:22 PM             6,464 05901.html
+22-Mar-2011  04:22 PM             6,234 05902.html
+22-Mar-2011  04:22 PM             6,473 05903.html
+20-Mar-2011  11:00 PM             5,994 05905.html
+22-Mar-2011  04:22 PM             6,231 05909.html
+22-Mar-2011  04:22 PM             6,224 05911.html
+22-Mar-2011  04:22 PM             6,723 05913.html
+22-Mar-2011  04:22 PM             6,487 05915.html
+22-Mar-2011  04:22 PM             6,220 05916.html
+22-Mar-2011  04:22 PM             6,253 05917.html
+22-Mar-2011  04:22 PM             6,275 05919.html
+22-Mar-2011  04:22 PM             6,221 05920.html
+22-Mar-2011  04:22 PM             6,742 05924.html
+22-Mar-2011  04:22 PM             6,495 05925.html
+22-Mar-2011  04:22 PM             6,224 05927.html
+22-Mar-2011  04:22 PM             5,998 05929.html
+22-Mar-2011  04:22 PM             5,959 05932.html
+22-Mar-2011  04:22 PM             6,228 05933.html
+22-Mar-2011  04:22 PM             6,493 05935.html
+22-Mar-2011  04:22 PM             6,505 05937.html
+22-Mar-2011  04:22 PM             6,240 05940.html
+22-Mar-2011  04:22 PM             6,486 05941.html
+22-Mar-2011  04:22 PM             6,247 05945.html
+22-Mar-2011  04:22 PM             6,498 05948.html
+22-Mar-2011  04:22 PM             6,218 05949.html
+22-Mar-2011  04:22 PM             6,220 05952.html
+22-Mar-2011  04:22 PM             6,243 05955.html
+22-Mar-2011  04:22 PM             5,968 05958.html
+22-Mar-2011  04:22 PM             5,974 05959.html
+22-Mar-2011  04:22 PM             6,491 05961.html
+22-Mar-2011  04:22 PM             6,757 05962.html
+22-Mar-2011  04:22 PM             6,497 05965.html
+22-Mar-2011  04:22 PM             6,506 05966.html
+22-Mar-2011  04:22 PM             5,963 05968.html
+22-Mar-2011  04:22 PM             7,027 05972.html
+22-Mar-2011  04:22 PM             6,723 05973.html
+22-Mar-2011  04:22 PM             6,482 05975.html
+22-Mar-2011  04:22 PM             6,501 05976.html
+22-Mar-2011  04:22 PM             6,745 05977.html
+22-Mar-2011  04:22 PM             6,500 05978.html
+07-Mar-2011  08:36 AM             5,720 C1059.html
+22-Mar-2011  04:22 PM             6,554 index.html
+              43 File(s)        273,557 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\060
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:22 PM             5,070 060.html
+22-Mar-2011  04:22 PM             6,477 06003.html
+22-Mar-2011  04:22 PM             6,489 06004.html
+22-Mar-2011  04:22 PM             6,238 06007.html
+22-Mar-2011  04:22 PM             7,000 06011.html
+22-Mar-2011  04:22 PM             6,245 06012.html
+22-Mar-2011  04:22 PM             6,483 06013.html
+22-Mar-2011  04:22 PM             5,959 06015.html
+22-Mar-2011  04:22 PM             5,968 06016.html
+22-Mar-2011  04:22 PM             6,208 06018.html
+22-Mar-2011  04:22 PM             6,217 06019.html
+22-Mar-2011  04:22 PM             6,243 06022.html
+22-Mar-2011  04:22 PM             6,227 06024.html
+22-Mar-2011  04:22 PM             6,492 06028.html
+22-Mar-2011  04:22 PM             5,953 06029.html
+22-Mar-2011  04:22 PM             6,240 06030.html
+22-Mar-2011  04:22 PM             5,972 06032.html
+22-Mar-2011  04:22 PM             5,992 06033.html
+22-Mar-2011  04:22 PM             7,261 06034.html
+22-Mar-2011  04:22 PM             6,211 06035.html
+22-Mar-2011  04:22 PM             6,490 06036.html
+07-Mar-2011  08:36 AM             4,284 C1060.html
+22-Mar-2011  04:22 PM             5,070 index.html
+              23 File(s)        140,789 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\061
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:23 PM             5,031 061.html
+22-Mar-2011  04:23 PM             5,971 06106.html
+22-Mar-2011  04:23 PM             5,951 06107.html
+22-Mar-2011  04:23 PM             5,966 06108.html
+22-Mar-2011  04:23 PM             5,707 06110.html
+22-Mar-2011  04:23 PM             5,694 06112.html
+22-Mar-2011  04:23 PM             5,966 06115.html
+22-Mar-2011  04:23 PM             5,748 06117.html
+22-Mar-2011  04:23 PM             5,986 06119.html
+22-Mar-2011  04:23 PM             5,467 06121.html
+22-Mar-2011  04:23 PM             5,706 06124.html
+22-Mar-2011  04:23 PM             5,991 06125.html
+22-Mar-2011  04:23 PM             5,453 06127.html
+22-Mar-2011  04:23 PM             5,712 06128.html
+22-Mar-2011  04:23 PM             6,222 06132.html
+22-Mar-2011  04:23 PM             5,973 06133.html
+22-Mar-2011  04:23 PM             6,208 06136.html
+22-Mar-2011  04:23 PM             6,484 06137.html
+22-Mar-2011  04:23 PM             6,975 06138.html
+22-Mar-2011  04:23 PM             6,485 06139.html
+22-Mar-2011  04:23 PM             6,220 06140.html
+07-Mar-2011  08:36 AM             4,245 C1061.html
+22-Mar-2011  04:23 PM             5,031 index.html
+              23 File(s)        134,192 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\062
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:23 PM             6,339 062.html
+22-Mar-2011  04:23 PM             6,519 06202.html
+22-Mar-2011  04:23 PM             6,280 06203.html
+22-Mar-2011  04:23 PM             6,535 06204.html
+22-Mar-2011  04:23 PM             6,532 06206.html
+22-Mar-2011  04:23 PM             6,037 06208.html
+22-Mar-2011  04:23 PM             6,289 06210.html
+22-Mar-2011  04:23 PM             6,537 06214.html
+22-Mar-2011  04:23 PM             6,780 06215.html
+22-Mar-2011  04:23 PM             7,045 06216.html
+22-Mar-2011  04:23 PM             5,756 06217.html
+22-Mar-2011  04:23 PM             6,528 06218.html
+22-Mar-2011  04:23 PM             6,523 06219.html
+22-Mar-2011  04:23 PM             6,508 06221.html
+22-Mar-2011  04:23 PM             7,027 06222.html
+22-Mar-2011  04:23 PM             5,517 06223.html
+22-Mar-2011  04:23 PM             6,768 06228.html
+22-Mar-2011  04:23 PM             6,268 06233.html
+22-Mar-2011  04:23 PM             5,762 06239.html
+22-Mar-2011  04:23 PM             6,040 06243.html
+22-Mar-2011  04:23 PM             6,281 06245.html
+22-Mar-2011  04:23 PM             6,276 06246.html
+22-Mar-2011  04:23 PM             6,276 06249.html
+22-Mar-2011  04:23 PM             6,250 06252.html
+22-Mar-2011  04:23 PM             6,518 06253.html
+22-Mar-2011  04:23 PM             6,551 06254.html
+22-Mar-2011  04:23 PM             6,530 06258.html
+22-Mar-2011  04:23 PM             6,276 06260.html
+22-Mar-2011  04:23 PM             6,258 06262.html
+22-Mar-2011  04:23 PM             6,010 06264.html
+22-Mar-2011  04:23 PM             6,561 06265.html
+22-Mar-2011  04:23 PM             7,047 06266.html
+22-Mar-2011  04:23 PM             6,258 06267.html
+22-Mar-2011  04:23 PM             6,772 06269.html
+22-Mar-2011  04:23 PM             6,532 06270.html
+22-Mar-2011  04:23 PM             6,028 06271.html
+22-Mar-2011  04:23 PM             6,527 06273.html
+22-Mar-2011  04:23 PM             7,031 06274.html
+22-Mar-2011  04:23 PM             6,266 06276.html
+07-Mar-2011  08:37 AM             5,544 C1062.html
+22-Mar-2011  04:23 PM             6,339 index.html
+              41 File(s)        261,721 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\063
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:24 PM             5,827 063.html
+22-Mar-2011  04:24 PM             5,995 06302.html
+22-Mar-2011  04:24 PM             5,743 06306.html
+22-Mar-2011  04:24 PM             5,753 06307.html
+22-Mar-2011  04:24 PM             6,254 06308.html
+22-Mar-2011  04:24 PM             6,033 06313.html
+22-Mar-2011  04:24 PM             5,997 06314.html
+22-Mar-2011  04:24 PM             5,732 06316.html
+22-Mar-2011  04:24 PM             7,029 06319.html
+22-Mar-2011  04:24 PM             5,513 06321.html
+22-Mar-2011  04:24 PM             6,005 06322.html
+22-Mar-2011  04:24 PM             6,250 06323.html
+22-Mar-2011  04:24 PM             5,744 06326.html
+22-Mar-2011  04:24 PM             5,734 06328.html
+22-Mar-2011  04:24 PM             6,286 06330.html
+22-Mar-2011  04:24 PM             5,734 06332.html
+22-Mar-2011  04:24 PM             6,751 06333.html
+22-Mar-2011  04:24 PM             5,514 06336.html
+22-Mar-2011  04:24 PM             5,511 06341.html
+22-Mar-2011  04:24 PM             5,775 06342.html
+22-Mar-2011  04:24 PM             6,272 06343.html
+22-Mar-2011  04:24 PM             6,005 06344.html
+22-Mar-2011  04:24 PM             6,510 06346.html
+22-Mar-2011  04:24 PM             6,272 06348.html
+22-Mar-2011  04:24 PM             6,270 06349.html
+22-Mar-2011  04:24 PM             6,297 06352.html
+22-Mar-2011  04:24 PM             6,777 06353.html
+22-Mar-2011  04:24 PM             6,545 06354.html
+22-Mar-2011  04:24 PM             6,004 06356.html
+22-Mar-2011  04:24 PM             6,008 06357.html
+22-Mar-2011  04:24 PM             6,019 06358.html
+17-Mar-2011  09:56 AM             5,042 C1063.html
+22-Mar-2011  04:24 PM             5,827 index.html
+              33 File(s)        199,028 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\064
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:24 PM             5,471 064.html
+22-Mar-2011  04:24 PM             6,038 06402.html
+22-Mar-2011  04:24 PM             6,064 06403.html
+22-Mar-2011  04:24 PM             6,311 06405.html
+22-Mar-2011  04:24 PM             7,328 06406.html
+22-Mar-2011  04:24 PM             7,840 06407.html
+22-Mar-2011  04:24 PM             6,309 06412.html
+22-Mar-2011  04:24 PM             6,293 06413.html
+22-Mar-2011  04:24 PM             6,315 06414.html
+22-Mar-2011  04:24 PM             7,054 06415.html
+22-Mar-2011  04:24 PM             5,785 06416.html
+22-Mar-2011  04:24 PM             6,044 06417.html
+22-Mar-2011  04:24 PM             6,291 06418.html
+22-Mar-2011  04:24 PM             7,078 06419.html
+22-Mar-2011  04:24 PM             5,787 06421.html
+22-Mar-2011  04:24 PM             6,053 06424.html
+22-Mar-2011  04:24 PM             6,311 06425.html
+22-Mar-2011  04:24 PM             6,835 06427.html
+22-Mar-2011  04:24 PM             6,812 06430.html
+22-Mar-2011  04:24 PM             6,588 06435.html
+22-Mar-2011  04:24 PM             6,550 06439.html
+22-Mar-2011  04:24 PM             7,071 06442.html
+22-Mar-2011  04:24 PM             7,061 06443.html
+22-Mar-2011  04:24 PM             7,316 06444.html
+22-Mar-2011  04:24 PM             6,299 06446.html
+22-Mar-2011  04:24 PM             6,559 06448.html
+22-Mar-2011  04:24 PM             6,808 06449.html
+07-Mar-2011  08:37 AM             4,719 C1064.html
+22-Mar-2011  04:24 PM             5,471 index.html
+              29 File(s)        186,461 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\065
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:25 PM             4,840 065.html
+22-Mar-2011  04:25 PM             6,517 06502.html
+22-Mar-2011  04:25 PM             5,756 06503.html
+22-Mar-2011  04:25 PM             5,772 06506.html
+22-Mar-2011  04:25 PM             5,775 06514.html
+22-Mar-2011  04:25 PM             5,782 06515.html
+22-Mar-2011  04:25 PM             6,011 06516.html
+22-Mar-2011  04:25 PM             6,287 06517.html
+22-Mar-2011  04:25 PM             5,796 06519.html
+22-Mar-2011  04:25 PM             6,552 06520.html
+22-Mar-2011  04:25 PM             6,516 06521.html
+22-Mar-2011  04:25 PM             5,782 06524.html
+22-Mar-2011  04:25 PM             6,029 06525.html
+22-Mar-2011  04:25 PM             5,764 06526.html
+22-Mar-2011  04:25 PM             6,514 06528.html
+22-Mar-2011  04:25 PM             6,523 06529.html
+22-Mar-2011  04:25 PM             6,515 06532.html
+22-Mar-2011  04:25 PM             6,298 06533.html
+17-Mar-2011  09:56 AM             4,092 C1065.html
+22-Mar-2011  04:25 PM             4,840 index.html
+              20 File(s)        117,961 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\066
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:25 PM             4,651 066.html
+22-Mar-2011  04:25 PM             6,565 06601.html
+22-Mar-2011  04:25 PM             6,285 06606.html
+22-Mar-2011  04:25 PM             7,568 06608.html
+22-Mar-2011  04:25 PM             6,801 06609.html
+22-Mar-2011  04:25 PM             6,786 06610.html
+22-Mar-2011  04:25 PM             6,792 06611.html
+22-Mar-2011  04:25 PM             6,805 06612.html
+22-Mar-2011  04:25 PM             7,079 06614.html
+22-Mar-2011  04:25 PM             6,578 06615.html
+22-Mar-2011  04:25 PM             6,271 06616.html
+22-Mar-2011  04:25 PM             6,535 06617.html
+22-Mar-2011  04:25 PM             7,068 06619.html
+22-Mar-2011  04:25 PM             7,041 06620.html
+22-Mar-2011  04:25 PM             7,055 06624.html
+22-Mar-2011  04:25 PM             7,051 06626.html
+22-Mar-2011  04:25 PM             6,824 06631.html
+07-Mar-2011  08:37 AM             4,048 C1066.html
+22-Mar-2011  04:25 PM             4,651 index.html
+              19 File(s)        122,454 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\067
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:25 PM             5,391 067.html
+22-Mar-2011  04:25 PM             6,254 06708.html
+22-Mar-2011  04:25 PM             5,989 06713.html
+22-Mar-2011  04:25 PM             6,016 06715.html
+22-Mar-2011  04:25 PM             5,987 06716.html
+22-Mar-2011  04:25 PM             5,466 06719.html
+22-Mar-2011  04:25 PM             5,987 06720.html
+22-Mar-2011  04:25 PM             6,492 06721.html
+22-Mar-2011  04:25 PM             7,012 06722.html
+22-Mar-2011  04:25 PM             5,996 06723.html
+22-Mar-2011  04:25 PM             5,990 06724.html
+22-Mar-2011  04:25 PM             7,003 06728.html
+22-Mar-2011  04:25 PM             6,251 06731.html
+22-Mar-2011  04:25 PM             5,989 06732.html
+22-Mar-2011  04:25 PM             6,753 06733.html
+21-Mar-2011  12:11 AM             6,242 06734.html
+22-Mar-2011  04:25 PM             5,740 06735.html
+22-Mar-2011  04:25 PM             6,997 06737.html
+22-Mar-2011  04:25 PM             6,245 06738.html
+22-Mar-2011  04:25 PM             7,011 06739.html
+22-Mar-2011  04:25 PM             6,754 06740.html
+22-Mar-2011  04:25 PM             7,244 06741.html
+22-Mar-2011  04:25 PM             6,543 06742.html
+22-Mar-2011  04:25 PM             6,001 06743.html
+17-Mar-2011  09:57 AM             4,474 C1067.html
+22-Mar-2011  04:25 PM             5,391 index.html
+              26 File(s)        161,218 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\068
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:26 PM             4,740 068.html
+22-Mar-2011  04:26 PM             6,743 06801.html
+22-Mar-2011  04:26 PM             5,992 06802.html
+22-Mar-2011  04:26 PM             5,996 06805.html
+22-Mar-2011  04:26 PM             6,245 06806.html
+22-Mar-2011  04:26 PM             7,023 06808.html
+22-Mar-2011  04:26 PM             6,241 06809.html
+22-Mar-2011  04:26 PM             5,989 06811.html
+22-Mar-2011  04:26 PM             6,251 06812.html
+22-Mar-2011  04:26 PM             6,003 06813.html
+22-Mar-2011  04:26 PM             6,732 06815.html
+22-Mar-2011  04:26 PM             6,737 06818.html
+22-Mar-2011  04:26 PM             5,756 06822.html
+22-Mar-2011  04:26 PM             6,012 06823.html
+22-Mar-2011  04:26 PM             6,263 06826.html
+07-Mar-2011  08:38 AM             3,833 C1068.html
+22-Mar-2011  04:26 PM             4,740 index.html
+              17 File(s)        101,296 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\069
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:26 PM             5,532 069.html
+22-Mar-2011  04:26 PM             6,235 06902.html
+22-Mar-2011  04:26 PM             6,260 06903.html
+22-Mar-2011  04:26 PM             6,474 06904.html
+22-Mar-2011  04:26 PM             6,489 06906.html
+22-Mar-2011  04:26 PM             6,226 06908.html
+22-Mar-2011  04:26 PM             6,250 06909.html
+22-Mar-2011  04:26 PM             6,741 06914.html
+22-Mar-2011  04:26 PM             6,477 06916.html
+22-Mar-2011  04:26 PM             6,748 06917.html
+22-Mar-2011  04:26 PM             6,480 06918.html
+22-Mar-2011  04:26 PM             7,222 06919.html
+22-Mar-2011  04:26 PM             6,472 06922.html
+22-Mar-2011  04:26 PM             6,495 06927.html
+22-Mar-2011  04:26 PM             6,208 06930.html
+22-Mar-2011  04:26 PM             6,492 06931.html
+22-Mar-2011  04:26 PM             6,490 06933.html
+22-Mar-2011  04:26 PM             7,001 06934.html
+22-Mar-2011  04:26 PM             6,495 06937.html
+22-Mar-2011  04:26 PM             6,242 06939.html
+22-Mar-2011  04:26 PM             6,481 06940.html
+22-Mar-2011  04:26 PM             6,737 06945.html
+22-Mar-2011  04:26 PM             6,744 06946.html
+22-Mar-2011  04:26 PM             7,013 06947.html
+22-Mar-2011  04:26 PM             6,233 06948.html
+22-Mar-2011  04:26 PM             6,736 06949.html
+22-Mar-2011  04:26 PM             6,735 06954.html
+22-Mar-2011  04:26 PM             6,975 06955.html
+07-Mar-2011  08:38 AM             4,732 C1069.html
+22-Mar-2011  04:26 PM             5,532 index.html
+              30 File(s)        192,947 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\070
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:26 PM             4,781 070.html
+22-Mar-2011  04:26 PM             5,738 07001.html
+22-Mar-2011  04:26 PM             5,766 07002.html
+22-Mar-2011  04:26 PM             6,003 07003.html
+22-Mar-2011  04:26 PM             5,994 07004.html
+22-Mar-2011  04:26 PM             5,515 07005.html
+22-Mar-2011  04:26 PM             5,526 07006.html
+22-Mar-2011  04:26 PM             5,762 07007.html
+22-Mar-2011  04:26 PM             6,016 07008.html
+22-Mar-2011  04:26 PM             6,015 07011.html
+22-Mar-2011  04:26 PM             5,735 07012.html
+22-Mar-2011  04:26 PM             5,767 07014.html
+22-Mar-2011  04:26 PM             6,499 07017.html
+22-Mar-2011  04:26 PM             5,507 07018.html
+22-Mar-2011  04:26 PM             6,522 07029.html
+22-Mar-2011  04:26 PM             6,755 07030.html
+22-Mar-2011  04:26 PM             6,253 07031.html
+14-Mar-2011  04:38 PM             4,026 C1070.html
+22-Mar-2011  04:26 PM             4,781 index.html
+              19 File(s)        108,961 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\071
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:27 PM             5,654 071.html
+22-Mar-2011  04:27 PM             6,520 07101.html
+22-Mar-2011  04:27 PM             5,782 07102.html
+22-Mar-2011  04:27 PM             6,058 07107.html
+22-Mar-2011  04:27 PM             6,019 07111.html
+22-Mar-2011  04:27 PM             6,773 07112.html
+22-Mar-2011  04:27 PM             6,020 07115.html
+22-Mar-2011  04:27 PM             5,995 07116.html
+22-Mar-2011  04:27 PM             5,755 07117.html
+22-Mar-2011  04:27 PM             5,755 07118.html
+22-Mar-2011  04:27 PM             6,521 07119.html
+22-Mar-2011  04:27 PM             5,773 07121.html
+22-Mar-2011  04:27 PM             5,769 07122.html
+22-Mar-2011  04:27 PM             5,785 07124.html
+22-Mar-2011  04:27 PM             6,007 07125.html
+22-Mar-2011  04:27 PM             6,517 07127.html
+22-Mar-2011  04:27 PM             6,022 07128.html
+22-Mar-2011  04:27 PM             6,497 07129.html
+22-Mar-2011  04:27 PM             5,765 07130.html
+22-Mar-2011  04:27 PM             6,789 07131.html
+22-Mar-2011  04:27 PM             6,284 07136.html
+22-Mar-2011  04:27 PM             6,284 07138.html
+22-Mar-2011  04:27 PM             6,042 07142.html
+22-Mar-2011  04:27 PM             6,039 07143.html
+22-Mar-2011  04:27 PM             5,806 07144.html
+22-Mar-2011  04:27 PM             5,779 07146.html
+22-Mar-2011  04:27 PM             6,053 07147.html
+22-Mar-2011  04:27 PM             6,563 07153.html
+22-Mar-2011  04:27 PM             7,044 07155.html
+07-Mar-2011  08:38 AM             4,902 C1071.html
+22-Mar-2011  04:27 PM             5,654 index.html
+              31 File(s)        188,226 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\072
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:27 PM             4,969 072.html
+22-Mar-2011  04:27 PM             6,253 07202.html
+22-Mar-2011  04:27 PM             6,007 07206.html
+22-Mar-2011  04:27 PM             6,476 07208.html
+22-Mar-2011  04:27 PM             5,980 07213.html
+22-Mar-2011  04:27 PM             5,972 07216.html
+22-Mar-2011  04:27 PM             6,256 07217.html
+22-Mar-2011  04:27 PM             6,239 07218.html
+22-Mar-2011  04:27 PM             6,507 07219.html
+22-Mar-2011  04:27 PM             5,992 07222.html
+22-Mar-2011  04:27 PM             6,014 07224.html
+22-Mar-2011  04:27 PM             6,248 07227.html
+22-Mar-2011  04:27 PM             6,229 07228.html
+22-Mar-2011  04:27 PM             6,497 07229.html
+22-Mar-2011  04:27 PM             5,977 07232.html
+22-Mar-2011  04:27 PM             6,013 07234.html
+22-Mar-2011  04:27 PM             6,503 07235.html
+22-Mar-2011  04:27 PM             6,519 07237.html
+22-Mar-2011  04:27 PM             6,001 07238.html
+22-Mar-2011  04:27 PM             6,226 07240.html
+07-Mar-2011  08:39 AM             4,254 C1072.html
+22-Mar-2011  04:27 PM             4,969 index.html
+              22 File(s)        132,101 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\073
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:28 PM             5,028 073.html
+22-Mar-2011  04:28 PM             7,008 07303.html
+22-Mar-2011  04:28 PM             6,757 07305.html
+22-Mar-2011  04:28 PM             6,251 07307.html
+22-Mar-2011  04:28 PM             5,965 07308.html
+22-Mar-2011  04:28 PM             7,235 07309.html
+22-Mar-2011  04:28 PM             5,972 07311.html
+22-Mar-2011  04:28 PM             5,995 07312.html
+22-Mar-2011  04:28 PM             6,479 07313.html
+22-Mar-2011  04:28 PM             5,989 07315.html
+22-Mar-2011  04:28 PM             5,987 07316.html
+22-Mar-2011  04:28 PM             6,229 07318.html
+22-Mar-2011  04:28 PM             6,767 07321.html
+22-Mar-2011  04:28 PM             5,756 07326.html
+22-Mar-2011  04:28 PM             6,463 07329.html
+22-Mar-2011  04:28 PM             6,747 07330.html
+22-Mar-2011  04:28 PM             6,499 07331.html
+22-Mar-2011  04:28 PM             6,505 07332.html
+22-Mar-2011  04:28 PM             6,476 07333.html
+22-Mar-2011  04:28 PM             6,497 07335.html
+14-Mar-2011  04:38 PM             4,277 C1073.html
+22-Mar-2011  04:28 PM             5,028 index.html
+              22 File(s)        135,910 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\074
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:28 PM             4,855 074.html
+22-Mar-2011  04:28 PM             6,250 07401.html
+22-Mar-2011  04:28 PM             6,529 07402.html
+22-Mar-2011  04:28 PM             6,263 07403.html
+22-Mar-2011  04:28 PM             6,284 07405.html
+22-Mar-2011  04:28 PM             6,756 07410.html
+22-Mar-2011  04:28 PM             7,253 07412.html
+22-Mar-2011  04:28 PM             6,499 07414.html
+22-Mar-2011  04:28 PM             6,743 07415.html
+22-Mar-2011  04:28 PM             6,502 07416.html
+22-Mar-2011  04:28 PM             6,530 07417.html
+22-Mar-2011  04:28 PM             7,028 07419.html
+22-Mar-2011  04:28 PM             5,760 07420.html
+22-Mar-2011  04:28 PM             6,800 07421.html
+22-Mar-2011  04:28 PM             6,249 07423.html
+22-Mar-2011  04:28 PM             6,554 07429.html
+22-Mar-2011  04:28 PM             6,297 07430.html
+22-Mar-2011  04:28 PM             6,800 07434.html
+17-Mar-2011  09:57 AM             4,104 C1074.html
+22-Mar-2011  04:28 PM             4,855 index.html
+              20 File(s)        124,911 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\076
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:28 PM             6,127 076.html
+22-Mar-2011  04:28 PM             6,508 07602.html
+22-Mar-2011  04:28 PM             6,556 07603.html
+22-Mar-2011  04:28 PM             6,516 07604.html
+22-Mar-2011  04:28 PM             6,292 07605.html
+22-Mar-2011  04:28 PM             7,282 07609.html
+22-Mar-2011  04:28 PM             7,303 07612.html
+22-Mar-2011  04:28 PM             6,802 07613.html
+22-Mar-2011  04:28 PM             6,280 07614.html
+22-Mar-2011  04:28 PM             6,766 07616.html
+22-Mar-2011  04:28 PM             6,539 07620.html
+22-Mar-2011  04:28 PM             6,536 07621.html
+22-Mar-2011  04:28 PM             6,035 07622.html
+22-Mar-2011  04:28 PM             6,276 07626.html
+22-Mar-2011  04:28 PM             6,540 07630.html
+22-Mar-2011  04:28 PM             7,038 07631.html
+22-Mar-2011  04:28 PM             7,043 07633.html
+22-Mar-2011  04:28 PM             5,765 07634.html
+22-Mar-2011  04:28 PM             6,293 07635.html
+22-Mar-2011  04:28 PM             6,510 07636.html
+22-Mar-2011  04:28 PM             6,534 07638.html
+22-Mar-2011  04:28 PM             6,024 07640.html
+22-Mar-2011  04:28 PM             6,287 07641.html
+22-Mar-2011  04:28 PM             6,758 07645.html
+22-Mar-2011  04:28 PM             6,772 07646.html
+22-Mar-2011  04:28 PM             7,276 07647.html
+22-Mar-2011  04:28 PM             6,028 07650.html
+22-Mar-2011  04:28 PM             6,024 07652.html
+22-Mar-2011  04:28 PM             6,510 07653.html
+22-Mar-2011  04:28 PM             7,024 07659.html
+22-Mar-2011  04:28 PM             6,290 07663.html
+22-Mar-2011  04:28 PM             6,309 07665.html
+22-Mar-2011  04:28 PM             6,761 07668.html
+22-Mar-2011  04:28 PM             6,801 07669.html
+22-Mar-2011  04:28 PM             6,049 07670.html
+07-Mar-2011  08:39 AM             5,321 C1076.html
+22-Mar-2011  04:28 PM             6,127 index.html
+              37 File(s)        239,902 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\077
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:29 PM             5,396 077.html
+22-Mar-2011  04:29 PM             6,032 07705.html
+22-Mar-2011  04:29 PM             6,803 07712.html
+22-Mar-2011  04:29 PM             6,795 07714.html
+22-Mar-2011  04:29 PM             5,784 07715.html
+22-Mar-2011  04:29 PM             6,793 07717.html
+22-Mar-2011  04:29 PM             6,767 07719.html
+22-Mar-2011  04:29 PM             6,300 07720.html
+22-Mar-2011  04:29 PM             6,792 07721.html
+22-Mar-2011  04:29 PM             6,012 07722.html
+22-Mar-2011  04:29 PM             6,271 07724.html
+22-Mar-2011  04:29 PM             6,278 07725.html
+22-Mar-2011  04:29 PM             6,267 07726.html
+22-Mar-2011  04:29 PM             6,287 07727.html
+22-Mar-2011  04:29 PM             6,283 07728.html
+22-Mar-2011  04:29 PM             6,288 07729.html
+22-Mar-2011  04:29 PM             6,543 07733.html
+22-Mar-2011  04:29 PM             7,012 07735.html
+22-Mar-2011  04:29 PM             6,294 07736.html
+22-Mar-2011  04:29 PM             6,280 07738.html
+22-Mar-2011  04:29 PM             6,542 07740.html
+22-Mar-2011  04:29 PM             6,536 07741.html
+22-Mar-2011  04:29 PM             6,547 07742.html
+22-Mar-2011  04:29 PM             6,295 07743.html
+07-Mar-2011  08:40 AM             4,557 C1077.html
+22-Mar-2011  04:29 PM             5,396 index.html
+              26 File(s)        163,150 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\078
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:29 PM             5,061 078.html
+22-Mar-2011  04:29 PM             6,760 07801.html
+22-Mar-2011  04:29 PM             6,266 07803.html
+22-Mar-2011  04:29 PM             6,791 07806.html
+22-Mar-2011  04:29 PM             6,765 07807.html
+22-Mar-2011  04:29 PM             6,237 07808.html
+22-Mar-2011  04:29 PM             6,489 07810.html
+22-Mar-2011  04:29 PM             6,520 07813.html
+22-Mar-2011  04:29 PM             6,272 07815.html
+22-Mar-2011  04:29 PM             6,482 07817.html
+22-Mar-2011  04:29 PM             7,282 07819.html
+22-Mar-2011  04:29 PM             6,786 07821.html
+22-Mar-2011  04:29 PM             6,255 07823.html
+22-Mar-2011  04:29 PM             7,041 07827.html
+22-Mar-2011  04:29 PM             7,800 07829.html
+22-Mar-2011  04:29 PM             6,520 07830.html
+22-Mar-2011  04:29 PM             6,764 07832.html
+22-Mar-2011  04:29 PM             6,727 07835.html
+22-Mar-2011  04:29 PM             6,792 07836.html
+22-Mar-2011  04:29 PM             6,505 07838.html
+22-Mar-2011  04:29 PM             6,749 07839.html
+07-Mar-2011  08:40 AM             4,315 C1078.html
+22-Mar-2011  04:29 PM             5,061 index.html
+              23 File(s)        148,240 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\079
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:30 PM             4,739 079.html
+22-Mar-2011  04:30 PM             6,011 07906.html
+22-Mar-2011  04:30 PM             5,748 07907.html
+22-Mar-2011  04:30 PM             6,277 07908.html
+22-Mar-2011  04:30 PM             6,284 07911.html
+22-Mar-2011  04:30 PM             6,002 07913.html
+22-Mar-2011  04:30 PM             5,996 07917.html
+22-Mar-2011  04:30 PM             5,501 07918.html
+22-Mar-2011  04:30 PM             6,023 07919.html
+22-Mar-2011  04:30 PM             6,265 07921.html
+22-Mar-2011  04:30 PM             5,990 07923.html
+22-Mar-2011  04:30 PM             6,280 07926.html
+22-Mar-2011  04:30 PM             5,999 07927.html
+22-Mar-2011  04:30 PM             6,022 07928.html
+22-Mar-2011  04:30 PM             5,769 07930.html
+22-Mar-2011  04:30 PM             5,746 07931.html
+22-Mar-2011  04:30 PM             6,511 07933.html
+07-Mar-2011  08:40 AM             4,020 C1079.html
+22-Mar-2011  04:30 PM             4,739 index.html
+              19 File(s)        109,922 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\080
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:30 PM             5,274 080.html
+22-Mar-2011  04:30 PM             6,495 08001.html
+22-Mar-2011  04:30 PM             5,741 08003.html
+22-Mar-2011  04:30 PM             6,000 08004.html
+22-Mar-2011  04:30 PM             5,959 08006.html
+22-Mar-2011  04:30 PM             6,232 08010.html
+22-Mar-2011  04:30 PM             6,221 08011.html
+22-Mar-2011  04:30 PM             6,208 08016.html
+22-Mar-2011  04:30 PM             5,963 08017.html
+22-Mar-2011  04:30 PM             6,215 08018.html
+22-Mar-2011  04:30 PM             5,978 08021.html
+22-Mar-2011  04:30 PM             5,974 08022.html
+22-Mar-2011  04:30 PM             6,245 08026.html
+22-Mar-2011  04:30 PM             6,223 08027.html
+22-Mar-2011  04:30 PM             5,977 08029.html
+22-Mar-2011  04:30 PM             5,704 08030.html
+22-Mar-2011  04:30 PM             6,217 08036.html
+22-Mar-2011  04:30 PM             5,964 08038.html
+22-Mar-2011  04:30 PM             5,960 08039.html
+22-Mar-2011  04:30 PM             5,993 08041.html
+22-Mar-2011  04:30 PM             6,248 08042.html
+22-Mar-2011  04:30 PM             7,012 08043.html
+21-Mar-2011  05:26 PM             7,244 08044.html
+22-Mar-2011  04:30 PM             6,241 08046.html
+07-Mar-2011  08:40 AM             4,462 C1080.html
+22-Mar-2011  04:30 PM             5,274 index.html
+              26 File(s)        157,024 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\081
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:31 PM             5,154 081.html
+22-Mar-2011  04:31 PM             5,707 08101.html
+22-Mar-2011  04:31 PM             6,467 08102.html
+22-Mar-2011  04:31 PM             5,437 08103.html
+22-Mar-2011  04:31 PM             6,234 08107.html
+22-Mar-2011  04:31 PM             5,952 08109.html
+22-Mar-2011  04:31 PM             5,961 08110.html
+22-Mar-2011  04:31 PM             6,469 08113.html
+22-Mar-2011  04:31 PM             6,224 08114.html
+22-Mar-2011  04:31 PM             6,463 08116.html
+22-Mar-2011  04:31 PM             6,733 08118.html
+22-Mar-2011  04:31 PM             6,244 08119.html
+22-Mar-2011  04:31 PM             5,977 08121.html
+22-Mar-2011  04:31 PM             5,717 08122.html
+22-Mar-2011  04:31 PM             5,966 08126.html
+22-Mar-2011  04:31 PM             5,711 08127.html
+22-Mar-2011  04:31 PM             6,256 08129.html
+22-Mar-2011  04:31 PM             6,203 08130.html
+22-Mar-2011  04:31 PM             5,707 08132.html
+22-Mar-2011  04:31 PM             6,226 08137.html
+22-Mar-2011  04:31 PM             6,725 08138.html
+22-Mar-2011  04:31 PM             5,974 08142.html
+22-Mar-2011  04:31 PM             6,229 08143.html
+22-Mar-2011  04:31 PM             6,473 08145.html
+07-Mar-2011  08:40 AM             4,485 C1081.html
+22-Mar-2011  04:31 PM             5,154 index.html
+              26 File(s)        155,848 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\082
+
+23-Mar-2011  02:11 PM    <DIR>          .
+23-Mar-2011  02:11 PM    <DIR>          ..
+22-Mar-2011  04:31 PM             4,552 082.html
+22-Mar-2011  04:31 PM             6,791 08202.html
+22-Mar-2011  04:31 PM             6,544 08204.html
+22-Mar-2011  04:31 PM             7,032 08205.html
+22-Mar-2011  04:31 PM             7,029 08207.html
+22-Mar-2011  04:31 PM             6,267 08208.html
+22-Mar-2011  04:31 PM             6,264 08209.html
+22-Mar-2011  04:31 PM             6,029 08213.html
+22-Mar-2011  04:31 PM             6,526 08214.html
+22-Mar-2011  04:31 PM             6,276 08215.html
+22-Mar-2011  04:31 PM             5,790 08218.html
+22-Mar-2011  04:31 PM             6,295 08220.html
+22-Mar-2011  04:31 PM             6,293 08222.html
+22-Mar-2011  04:31 PM             6,535 08226.html
+22-Mar-2011  04:31 PM             6,777 08230.html
+07-Mar-2011  08:41 AM             3,903 C1082.html
+22-Mar-2011  04:31 PM             4,552 index.html
+              17 File(s)        103,455 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\083
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:31 PM             5,025 083.html
+22-Mar-2011  04:31 PM             6,475 08304.html
+22-Mar-2011  04:31 PM             5,979 08305.html
+22-Mar-2011  04:31 PM             6,457 08306.html
+22-Mar-2011  04:31 PM             5,701 08313.html
+22-Mar-2011  04:31 PM             7,007 08315.html
+22-Mar-2011  04:31 PM             6,463 08316.html
+22-Mar-2011  04:31 PM             6,224 08317.html
+22-Mar-2011  04:31 PM             6,482 08318.html
+22-Mar-2011  04:31 PM             5,944 08319.html
+22-Mar-2011  04:31 PM             6,007 08321.html
+22-Mar-2011  04:31 PM             5,968 08322.html
+22-Mar-2011  04:31 PM             7,738 08324.html
+22-Mar-2011  04:31 PM             6,197 08326.html
+22-Mar-2011  04:31 PM             6,465 08328.html
+22-Mar-2011  04:31 PM             6,456 08331.html
+21-Mar-2011  12:10 AM             5,966 08335.html
+22-Mar-2011  04:31 PM             6,466 08337.html
+22-Mar-2011  04:31 PM             5,977 08339.html
+22-Mar-2011  04:31 PM             6,995 08340.html
+22-Mar-2011  04:31 PM             6,484 08341.html
+22-Mar-2011  04:31 PM             6,490 08342.html
+22-Mar-2011  04:31 PM             6,488 08343.html
+07-Mar-2011  08:41 AM             4,388 C1083.html
+22-Mar-2011  04:31 PM             5,025 index.html
+              25 File(s)        154,867 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\084
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:32 PM             4,364 084.html
+22-Mar-2011  04:32 PM             6,481 08401.html
+22-Mar-2011  04:32 PM             7,516 08403.html
+22-Mar-2011  04:32 PM             6,500 08404.html
+22-Mar-2011  04:32 PM             6,496 08405.html
+22-Mar-2011  04:32 PM             5,981 08407.html
+22-Mar-2011  04:32 PM             6,493 08408.html
+22-Mar-2011  04:32 PM             7,250 08409.html
+22-Mar-2011  04:32 PM             7,038 08413.html
+22-Mar-2011  04:32 PM             6,477 08414.html
+22-Mar-2011  04:32 PM             6,224 08415.html
+22-Mar-2011  04:32 PM             6,503 08416.html
+22-Mar-2011  04:32 PM             6,499 08423.html
+07-Mar-2011  08:41 AM             3,702 C1084.html
+22-Mar-2011  04:32 PM             4,364 index.html
+              15 File(s)         91,888 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\085
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:32 PM             4,686 085.html
+22-Mar-2011  04:32 PM             6,236 08501.html
+22-Mar-2011  04:32 PM             5,999 08502.html
+22-Mar-2011  04:32 PM             6,232 08503.html
+22-Mar-2011  04:32 PM             5,996 08505.html
+22-Mar-2011  04:32 PM             6,232 08506.html
+22-Mar-2011  04:32 PM             6,254 08508.html
+22-Mar-2011  04:32 PM             5,980 08509.html
+22-Mar-2011  04:32 PM             5,982 08510.html
+22-Mar-2011  04:32 PM             6,222 08512.html
+22-Mar-2011  04:32 PM             6,011 08520.html
+22-Mar-2011  04:32 PM             5,978 08522.html
+22-Mar-2011  04:32 PM             6,533 08523.html
+22-Mar-2011  04:32 PM             6,771 08524.html
+22-Mar-2011  04:32 PM             5,993 08525.html
+22-Mar-2011  04:32 PM             6,238 08527.html
+22-Mar-2011  04:32 PM             6,509 08530.html
+17-Mar-2011  05:19 PM             4,034 C1085.html
+22-Mar-2011  04:32 PM             4,686 index.html
+              19 File(s)        112,572 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\086
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:32 PM             4,932 086.html
+22-Mar-2011  04:32 PM             5,723 08602.html
+22-Mar-2011  04:32 PM             6,222 08604.html
+22-Mar-2011  04:32 PM             5,980 08605.html
+22-Mar-2011  04:32 PM             6,212 08606.html
+22-Mar-2011  04:32 PM             6,262 08610.html
+22-Mar-2011  04:32 PM             6,473 08612.html
+22-Mar-2011  04:32 PM             6,220 08613.html
+22-Mar-2011  04:32 PM             5,998 08614.html
+22-Mar-2011  04:32 PM             5,717 08615.html
+22-Mar-2011  04:32 PM             6,229 08616.html
+22-Mar-2011  04:32 PM             7,020 08619.html
+22-Mar-2011  04:32 PM             6,976 08620.html
+22-Mar-2011  04:32 PM             6,748 08624.html
+22-Mar-2011  04:32 PM             5,974 08626.html
+22-Mar-2011  04:32 PM             5,992 08627.html
+22-Mar-2011  04:32 PM             5,980 08630.html
+22-Mar-2011  04:32 PM             6,495 08632.html
+22-Mar-2011  04:32 PM             7,003 08634.html
+22-Mar-2011  04:32 PM             6,246 08638.html
+17-Mar-2011  05:19 PM             4,217 C1086.html
+22-Mar-2011  04:32 PM             4,932 index.html
+              22 File(s)        133,551 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\087
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:33 PM             5,106 087.html
+22-Mar-2011  04:33 PM             6,276 08701.html
+22-Mar-2011  04:33 PM             6,503 08702.html
+22-Mar-2011  04:33 PM             6,509 08703.html
+22-Mar-2011  04:33 PM             6,275 08707.html
+22-Mar-2011  04:33 PM             5,760 08709.html
+22-Mar-2011  04:33 PM             6,256 08712.html
+22-Mar-2011  04:33 PM             6,022 08714.html
+22-Mar-2011  04:33 PM             6,256 08715.html
+22-Mar-2011  04:33 PM             6,749 08718.html
+22-Mar-2011  04:33 PM             6,296 08723.html
+22-Mar-2011  04:33 PM             6,023 08724.html
+22-Mar-2011  04:33 PM             6,527 08725.html
+22-Mar-2011  04:33 PM             6,040 08726.html
+22-Mar-2011  04:33 PM             5,543 08728.html
+22-Mar-2011  04:33 PM             6,267 08730.html
+22-Mar-2011  04:33 PM             6,268 08731.html
+22-Mar-2011  04:33 PM             6,026 08733.html
+22-Mar-2011  04:33 PM             6,273 08735.html
+22-Mar-2011  04:33 PM             6,020 08737.html
+22-Mar-2011  04:33 PM             6,022 08740.html
+22-Mar-2011  04:33 PM             6,266 08742.html
+07-Mar-2011  08:42 AM             4,439 C1087.html
+22-Mar-2011  04:33 PM             5,106 index.html
+              24 File(s)        144,828 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\088
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:33 PM             4,830 088.html
+22-Mar-2011  04:33 PM             5,977 08802.html
+22-Mar-2011  04:33 PM             6,228 08803.html
+22-Mar-2011  04:33 PM             6,510 08806.html
+22-Mar-2011  04:33 PM             6,234 08807.html
+22-Mar-2011  04:33 PM             5,961 08811.html
+22-Mar-2011  04:33 PM             6,997 08812.html
+22-Mar-2011  04:33 PM             5,963 08813.html
+22-Mar-2011  04:33 PM             5,734 08814.html
+22-Mar-2011  04:33 PM             6,485 08816.html
+22-Mar-2011  04:33 PM             5,992 08817.html
+22-Mar-2011  04:33 PM             5,976 08818.html
+22-Mar-2011  04:33 PM             6,490 08824.html
+22-Mar-2011  04:33 PM             6,012 08825.html
+22-Mar-2011  04:33 PM             5,982 08827.html
+22-Mar-2011  04:33 PM             5,975 08829.html
+07-Mar-2011  08:42 AM             3,923 C1088.html
+22-Mar-2011  04:33 PM             4,830 index.html
+              18 File(s)        106,099 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\089
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:33 PM             5,213 089.html
+22-Mar-2011  04:33 PM             5,976 08903.html
+22-Mar-2011  04:33 PM             5,714 08905.html
+22-Mar-2011  04:33 PM             6,212 08906.html
+22-Mar-2011  04:33 PM             6,215 08908.html
+22-Mar-2011  04:33 PM             5,718 08909.html
+22-Mar-2011  04:33 PM             6,478 08912.html
+22-Mar-2011  04:33 PM             6,242 08914.html
+22-Mar-2011  04:33 PM             5,992 08916.html
+22-Mar-2011  04:33 PM             6,003 08918.html
+22-Mar-2011  04:33 PM             5,731 08920.html
+22-Mar-2011  04:33 PM             5,737 08922.html
+22-Mar-2011  04:33 PM             6,477 08923.html
+22-Mar-2011  04:33 PM             6,471 08925.html
+22-Mar-2011  04:33 PM             5,978 08928.html
+22-Mar-2011  04:33 PM             5,995 08929.html
+22-Mar-2011  04:33 PM             5,724 08931.html
+22-Mar-2011  04:33 PM             5,976 08934.html
+22-Mar-2011  04:33 PM             5,714 08935.html
+22-Mar-2011  04:33 PM             6,239 08937.html
+22-Mar-2011  04:33 PM             6,225 08940.html
+22-Mar-2011  04:33 PM             6,219 08941.html
+22-Mar-2011  04:33 PM             6,223 08942.html
+07-Mar-2011  08:42 AM             4,434 C1089.html
+22-Mar-2011  04:33 PM             5,213 index.html
+              25 File(s)        148,119 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\090
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:34 PM             4,093 090.html
+22-Mar-2011  04:34 PM             6,562 09001.html
+22-Mar-2011  04:34 PM             6,050 09006.html
+22-Mar-2011  04:34 PM             6,812 09007.html
+22-Mar-2011  04:34 PM             6,555 09008.html
+22-Mar-2011  04:34 PM             6,550 09009.html
+22-Mar-2011  04:34 PM             6,320 09010.html
+22-Mar-2011  04:34 PM             6,053 09011.html
+22-Mar-2011  04:34 PM             6,539 09015.html
+07-Mar-2011  08:42 AM             3,468 C1090.html
+22-Mar-2011  04:34 PM             4,093 index.html
+              11 File(s)         63,095 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\091
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:34 PM             5,099 091.html
+22-Mar-2011  04:34 PM             6,504 09101.html
+22-Mar-2011  04:34 PM             6,488 09102.html
+22-Mar-2011  04:34 PM             6,262 09106.html
+22-Mar-2011  04:34 PM             6,741 09107.html
+22-Mar-2011  04:34 PM             5,988 09109.html
+22-Mar-2011  04:34 PM             7,251 09110.html
+22-Mar-2011  04:34 PM             6,755 09115.html
+22-Mar-2011  04:34 PM             5,982 09117.html
+22-Mar-2011  04:34 PM             6,280 09118.html
+22-Mar-2011  04:34 PM             6,251 09120.html
+22-Mar-2011  04:34 PM             6,479 09121.html
+22-Mar-2011  04:34 PM             6,277 09125.html
+22-Mar-2011  04:34 PM             6,755 09128.html
+22-Mar-2011  04:34 PM             6,761 09129.html
+22-Mar-2011  04:34 PM             6,241 09130.html
+22-Mar-2011  04:34 PM             6,003 09131.html
+22-Mar-2011  04:34 PM             6,503 09134.html
+22-Mar-2011  04:34 PM             6,498 09138.html
+22-Mar-2011  04:34 PM             6,732 09140.html
+22-Mar-2011  04:34 PM             6,237 09141.html
+22-Mar-2011  04:34 PM             6,734 09142.html
+07-Mar-2011  08:43 AM             4,355 C1091.html
+22-Mar-2011  04:34 PM             5,099 index.html
+              24 File(s)        150,275 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\092
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:34 PM             5,138 092.html
+22-Mar-2011  04:34 PM             7,577 09202.html
+22-Mar-2011  04:34 PM             6,295 09207.html
+22-Mar-2011  04:34 PM             7,043 09209.html
+22-Mar-2011  04:34 PM             6,539 09210.html
+22-Mar-2011  04:34 PM             7,048 09211.html
+22-Mar-2011  04:34 PM             7,041 09214.html
+22-Mar-2011  04:34 PM             7,058 09217.html
+22-Mar-2011  04:34 PM             6,548 09219.html
+22-Mar-2011  04:34 PM             7,022 09220.html
+22-Mar-2011  04:34 PM             6,540 09221.html
+22-Mar-2011  04:34 PM             7,057 09223.html
+22-Mar-2011  04:34 PM             6,578 09224.html
+22-Mar-2011  04:34 PM             6,767 09226.html
+22-Mar-2011  04:34 PM             7,045 09227.html
+22-Mar-2011  04:34 PM             7,028 09229.html
+22-Mar-2011  04:34 PM             7,071 09230.html
+22-Mar-2011  04:34 PM             6,816 09232.html
+22-Mar-2011  04:34 PM             7,030 09233.html
+22-Mar-2011  04:34 PM             6,808 09234.html
+22-Mar-2011  04:34 PM             6,542 09235.html
+22-Mar-2011  04:34 PM             6,521 09236.html
+22-Mar-2011  04:34 PM             6,523 09239.html
+22-Mar-2011  04:34 PM             6,287 09241.html
+22-Mar-2011  04:34 PM             6,790 09245.html
+07-Mar-2011  08:43 AM             4,662 C1092.html
+22-Mar-2011  04:34 PM             5,138 index.html
+              27 File(s)        178,512 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\093
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:35 PM             4,819 093.html
+22-Mar-2011  04:35 PM             7,552 09301.html
+22-Mar-2011  04:35 PM             7,068 09303.html
+22-Mar-2011  04:35 PM             6,282 09310.html
+22-Mar-2011  04:35 PM             7,034 09311.html
+22-Mar-2011  04:35 PM             7,068 09312.html
+22-Mar-2011  04:35 PM             6,295 09313.html
+22-Mar-2011  04:35 PM             6,306 09315.html
+22-Mar-2011  04:35 PM             7,316 09317.html
+22-Mar-2011  04:35 PM             6,306 09319.html
+22-Mar-2011  04:35 PM             6,315 09322.html
+22-Mar-2011  04:35 PM             6,038 09323.html
+22-Mar-2011  04:35 PM             6,789 09324.html
+22-Mar-2011  04:35 PM             6,285 09325.html
+22-Mar-2011  04:35 PM             6,822 09326.html
+22-Mar-2011  04:35 PM             7,573 09328.html
+22-Mar-2011  04:35 PM             6,547 09330.html
+22-Mar-2011  04:35 PM             7,304 09331.html
+22-Mar-2011  04:35 PM             6,534 09338.html
+22-Mar-2011  04:35 PM             6,571 09339.html
+22-Mar-2011  04:35 PM             7,047 09340.html
+07-Mar-2011  08:43 AM             4,334 C1093.html
+22-Mar-2011  04:35 PM             4,819 index.html
+              23 File(s)        149,024 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\094
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:35 PM             5,252 094.html
+22-Mar-2011  04:35 PM             6,526 09403.html
+22-Mar-2011  04:35 PM             6,498 09405.html
+22-Mar-2011  04:35 PM             6,557 09407.html
+22-Mar-2011  04:35 PM             6,786 09408.html
+22-Mar-2011  04:35 PM             7,781 09409.html
+22-Mar-2011  04:35 PM             7,056 09411.html
+22-Mar-2011  04:35 PM             6,279 09413.html
+22-Mar-2011  04:35 PM             6,794 09414.html
+22-Mar-2011  04:35 PM             6,027 09417.html
+22-Mar-2011  04:35 PM             6,543 09418.html
+22-Mar-2011  04:35 PM             7,022 09419.html
+22-Mar-2011  04:35 PM             6,537 09421.html
+22-Mar-2011  04:35 PM             6,824 09423.html
+22-Mar-2011  04:35 PM             6,541 09424.html
+22-Mar-2011  04:35 PM             6,528 09427.html
+22-Mar-2011  04:35 PM             6,525 09429.html
+22-Mar-2011  04:35 PM             6,265 09434.html
+22-Mar-2011  04:35 PM             6,774 09436.html
+22-Mar-2011  04:35 PM             6,027 09439.html
+22-Mar-2011  04:35 PM             7,022 09440.html
+22-Mar-2011  04:35 PM             6,554 09441.html
+22-Mar-2011  04:35 PM             6,522 09442.html
+22-Mar-2011  04:35 PM             6,782 09443.html
+22-Mar-2011  04:35 PM             6,243 09447.html
+22-Mar-2011  04:35 PM             6,529 09448.html
+17-Mar-2011  09:58 AM             4,777 C1094.html
+22-Mar-2011  04:35 PM             5,252 index.html
+              28 File(s)        180,823 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\095
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:35 PM             4,910 095.html
+22-Mar-2011  04:35 PM             7,532 09501.html
+22-Mar-2011  04:35 PM             6,517 09503.html
+22-Mar-2011  04:35 PM             6,756 09507.html
+22-Mar-2011  04:35 PM             6,259 09508.html
+22-Mar-2011  04:35 PM             6,017 09511.html
+22-Mar-2011  04:35 PM             7,009 09513.html
+22-Mar-2011  04:35 PM             6,762 09516.html
+22-Mar-2011  04:35 PM             5,995 09517.html
+22-Mar-2011  04:35 PM             6,270 09518.html
+22-Mar-2011  04:35 PM             6,543 09521.html
+22-Mar-2011  04:35 PM             6,510 09522.html
+22-Mar-2011  04:35 PM             6,510 09523.html
+22-Mar-2011  04:35 PM             6,002 09526.html
+22-Mar-2011  04:35 PM             6,508 09528.html
+22-Mar-2011  04:35 PM             7,014 09531.html
+22-Mar-2011  04:35 PM             7,017 09533.html
+22-Mar-2011  04:35 PM             6,539 09534.html
+22-Mar-2011  04:35 PM             7,012 09536.html
+22-Mar-2011  04:35 PM             6,770 09538.html
+07-Mar-2011  08:43 AM             4,235 C1095.html
+22-Mar-2011  04:35 PM             4,910 index.html
+              22 File(s)        139,597 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\971
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:36 PM             4,749 971.html
+22-Mar-2011  04:36 PM             6,750 97101.html
+22-Mar-2011  04:36 PM             6,776 97103.html
+22-Mar-2011  04:36 PM             5,749 97104.html
+22-Mar-2011  04:36 PM             6,771 97108.html
+22-Mar-2011  04:36 PM             5,230 97110.html
+22-Mar-2011  04:36 PM             5,750 97113.html
+22-Mar-2011  04:36 PM             5,513 97114.html
+22-Mar-2011  04:36 PM             6,254 97115.html
+22-Mar-2011  04:36 PM             6,263 97116.html
+22-Mar-2011  04:36 PM             6,243 97117.html
+22-Mar-2011  04:36 PM             6,754 97118.html
+22-Mar-2011  04:36 PM             6,249 97120.html
+22-Mar-2011  04:36 PM             6,248 97121.html
+22-Mar-2011  04:36 PM             6,008 97122.html
+22-Mar-2011  04:36 PM             6,005 97124.html
+22-Mar-2011  04:36 PM             5,997 97126.html
+22-Mar-2011  04:36 PM             5,508 97135.html
+22-Mar-2011  04:36 PM             6,037 97140.html
+22-Mar-2011  04:36 PM             5,990 97143.html
+07-Mar-2011  08:44 AM             4,245 C1971.html
+22-Mar-2011  04:36 PM             4,749 index.html
+              22 File(s)        129,838 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\972
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:36 PM             4,914 972.html
+22-Mar-2011  04:36 PM             6,256 97207.html
+22-Mar-2011  04:36 PM             6,005 97211.html
+22-Mar-2011  04:36 PM             6,255 97212.html
+22-Mar-2011  04:36 PM             5,492 97217.html
+22-Mar-2011  04:36 PM             5,982 97218.html
+22-Mar-2011  04:36 PM             5,993 97219.html
+22-Mar-2011  04:36 PM             5,491 97223.html
+22-Mar-2011  04:36 PM             5,760 97224.html
+22-Mar-2011  04:36 PM             6,020 97225.html
+22-Mar-2011  04:36 PM             5,246 97226.html
+22-Mar-2011  04:36 PM             6,756 97232.html
+22-Mar-2011  04:36 PM             5,755 97233.html
+22-Mar-2011  04:36 PM             5,743 97234.html
+22-Mar-2011  04:36 PM             5,760 97235.html
+22-Mar-2011  04:36 PM             5,743 97236.html
+22-Mar-2011  04:36 PM             6,008 97238.html
+22-Mar-2011  04:36 PM             6,021 97240.html
+22-Mar-2011  04:36 PM             5,510 97241.html
+22-Mar-2011  04:36 PM             5,768 97243.html
+22-Mar-2011  04:36 PM             6,001 97244.html
+22-Mar-2011  04:36 PM             5,751 97246.html
+22-Mar-2011  04:36 PM             6,022 97247.html
+22-Mar-2011  04:36 PM             5,758 97248.html
+07-Mar-2011  08:44 AM             4,530 C1972.html
+22-Mar-2011  04:36 PM             4,914 index.html
+              26 File(s)        149,454 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\973
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  03:59 PM             4,030 973.html
+22-Mar-2011  03:59 PM             5,721 97301.html
+22-Mar-2011  03:59 PM             5,226 97305.html
+22-Mar-2011  03:59 PM             5,456 97306.html
+22-Mar-2011  03:59 PM             6,461 97307.html
+22-Mar-2011  03:59 PM             5,201 97309.html
+22-Mar-2011  03:59 PM             6,481 97310.html
+22-Mar-2011  03:59 PM             6,205 97311.html
+22-Mar-2011  03:59 PM             6,247 97312.html
+22-Mar-2011  03:59 PM             6,226 97316.html
+07-Mar-2011  08:44 AM             3,496 C1973.html
+22-Mar-2011  03:59 PM             4,030 index.html
+              12 File(s)         64,780 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\974
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  03:59 PM             4,879 974.html
+22-Mar-2011  03:59 PM             6,264 97401.html
+22-Mar-2011  03:59 PM             6,010 97404.html
+22-Mar-2011  03:59 PM             6,241 97407.html
+22-Mar-2011  03:59 PM             6,012 97408.html
+22-Mar-2011  03:59 PM             7,550 97409.html
+22-Mar-2011  03:59 PM             6,765 97410.html
+22-Mar-2011  03:59 PM             8,274 97413.html
+22-Mar-2011  03:59 PM             6,007 97416.html
+22-Mar-2011  03:59 PM             6,008 97417.html
+22-Mar-2011  03:59 PM             6,262 97420.html
+22-Mar-2011  03:59 PM             6,496 97421.html
+22-Mar-2011  03:59 PM             6,241 97422.html
+22-Mar-2011  03:59 PM             7,007 97423.html
+22-Mar-2011  03:59 PM             7,803 97425.html
+22-Mar-2011  03:59 PM             5,758 97426.html
+22-Mar-2011  03:59 PM             6,259 97430.html
+22-Mar-2011  03:59 PM             6,267 97432.html
+22-Mar-2011  03:59 PM             5,999 97433.html
+22-Mar-2011  03:59 PM             7,263 97435.html
+22-Mar-2011  03:59 PM             6,019 97437.html
+22-Mar-2011  03:59 PM             6,756 97442.html
+22-Mar-2011  03:59 PM             6,757 97445.html
+22-Mar-2011  03:59 PM             6,499 97446.html
+22-Mar-2011  03:59 PM             7,015 97447.html
+22-Mar-2011  03:59 PM             7,269 97449.html
+07-Mar-2011  08:44 AM             4,645 C1974.html
+22-Mar-2011  03:59 PM             4,879 index.html
+              28 File(s)        179,204 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\976
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+22-Mar-2011  04:00 PM             3,959 976.html
+22-Mar-2011  04:00 PM             5,960 97602.html
+22-Mar-2011  04:00 PM             6,723 97603.html
+22-Mar-2011  04:00 PM             5,966 97605.html
+22-Mar-2011  04:00 PM             5,956 97606.html
+22-Mar-2011  04:00 PM             6,217 97609.html
+22-Mar-2011  04:00 PM             5,956 97610.html
+22-Mar-2011  04:00 PM             6,485 97615.html
+22-Mar-2011  04:00 PM             5,702 97616.html
+22-Mar-2011  04:00 PM             5,699 97617.html
+22-Mar-2011  04:00 PM             5,199 97618.html
+07-Mar-2011  08:44 AM             3,536 C1976.html
+22-Mar-2011  04:00 PM             3,959 index.html
+              13 File(s)         71,317 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\css
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+21-Dec-2010  11:15 AM            15,478 css.css
+               1 File(s)         15,478 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\images
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+14-Jan-2008  08:04 PM               281 bullet.gif
+14-Jan-2008  08:04 PM            13,144 button-bg.jpg
+14-Jan-2008  08:04 PM               444 content-b_995.jpg
+14-Mar-2011  05:20 PM            34,481 footer_995.jpg
+01-Feb-2011  05:09 PM            91,799 header_995.jpg
+14-Jan-2008  08:04 PM               366 menu.jpg
+14-Jan-2008  08:04 PM               255 square-blue.png
+               7 File(s)        140,770 bytes
+
+ Directory of C:\Documents and Settings\cukier_j.OECDMAIN\My Documents\python\CN2011\img
+
+23-Mar-2011  02:12 PM    <DIR>          .
+23-Mar-2011  02:12 PM    <DIR>          ..
+11-Oct-2010  05:30 PM            22,629 carte_france.png
+29-Jul-2010  09:12 AM                43 vide.gif
+               2 File(s)         22,672 bytes
+
+     Total Files Listed:
+            2337 File(s)     14,517,660 bytes
+             311 Dir(s)  35,945,558,016 bytes free
