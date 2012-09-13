@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<script src="http://www.jeromecukier.net/projects/d3.v2.min.js?2.9.1"></script>
+<script src="pathJSON.js"></script>
+<script src="pathCorrector.js"></script>
+<script src="douglas.js"></script>
+<body>
+<svg width="550" height="550" xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg" version="1.1">
+
+</svg>
+<table></table>
+<script>
+var mode=1;
+var projStep=1;
+var stitchStep=2;
+var step=5.0;
+
+var colMode=0;
+
+
+var defs=d3.select("svg").append("defs");
+var path=d3.select("svg").append("path").attr("id","myPath");
+var dept1=[
+	{"width": 39, "height": 56, "dept": "2a", "y": 489, "x": 445}, 
+	{"width": 42, "height": 67, "dept": "2b", "y": 450, "x": 447}, 
+	
+	{"width": 56, "height": 50, "dept": "01", "y": 263, "x": 373}, 
+	{"width": 48, "height": 69, "dept": "02", "y": 62, "x": 302}, 
+	//{"width": 68, "height": 48, "dept": "03", "y": 248, "x": 276}, 
+	{"width": 68, "height": 48, "dept": "03", "y": 248, "x": 277}, 
+	{"width": 59, "height": 58, "dept": "04", "y": 364, "x": 408}, 
+	{"width": 65, "height": 56, "dept": "05", "y": 339, "x": 405}, 
+	{"width": 42, "height": 50, "dept": "06", "y": 382, "x": 456}, 
+	{"width": 49, "height": 52, "dept": "08", "y": 56, "x": 341}, 
+	{"width": 56, "height": 43, "dept": "09", "y": 446, "x": 216}, 
+
+	
+
+	
+	
+	{"width": 41, "height": 49, "dept": "48", "y": 352, "x": 305}, 
+	
+	{"width": 55, "height": 45, "dept": "10", "y": 139, "x": 319}, 
+	{"width": 63, "height": 46, "dept": "11", "y": 438, "x": 251}, 
+	{"width": 65, "height": 71, "dept": "12", "y": 353, "x": 259}, 
+	{"width": 63, "height": 43, "dept": "13", "y": 410, "x": 359}, 
+	{"width": 59, "height": 37, "dept": "14", "y": 98, "x": 148}, 
+	{"width": 51, "height": 69, "dept": "18", "y": 201, "x": 257}, 
+	{"width": 52, "height": 48, "dept": "15", "y": 324, "x": 268}, 
+	{"width": 56, "height": 53, "dept": "16", "y": 285, "x": 167}, 
+	//{"width": 62, "height": 73, "dept": "17", "y": 271, "x": 124}, 
+	{"width": 52, "height": 73, "dept": "17", "y": 270, "x": 165}, 
+	//{"width": 51, "height": 47, "dept": "19", "y": 308, "x": 235}, 
+	{"width": 51, "height": 47, "dept": "19", "y": 307, "x": 235}, 
+	{"width": 59, "height": 63, "dept": "24", "y": 310, "x": 184}, 
+
+	{"width": 65, "height": 56, "dept": "30", "y": 381, "x": 317}, 
+	{"width": 66, "height": 70, "dept": "31", "y": 412, "x": 200}, 
+	{"width": 61, "height": 44, "dept": "32", "y": 402, "x": 171}, 
+	{"width": 65, "height": 80, "dept": "33", "y": 315, "x": 132}, 
+	{"width": 68, "height": 45, "dept": "34", "y": 408, "x": 287}, 
+	//{"width": 48, "height": 59, "dept": "35", "y": 136, "x": 102}, 
+	{"width": 48, "height": 59, "dept": "35", "y": 135, "x": 105}, 
+	{"width": 51, "height": 53, "dept": "36", "y": 221, "x": 222}, 
+	{"width": 51, "height": 55, "dept": "37", "y": 197, "x": 190}, 
+	//{"width": 66, "height": 66, "dept": "38", "y": 299, "x": 375}, 
+	{"width": 66, "height": 66, "dept": "38", "y": 298, "x": 376}, 
+	{"width": 38, "height": 58, "dept": "39", "y": 218, "x": 392}, 
+
+	{"width": 69, "height": 59, "dept": "40", "y": 374, "x": 119}, 
+	{"width": 64, "height": 54, "dept": "41", "y": 172, "x": 212}, 
+	{"width": 44, "height": 58, "dept": "42", "y": 278, "x": 332}, 
+	//{"width": 63, "height": 55, "dept": "44", "y": 186, "x": 89}, 
+	{"width": 63, "height": 55, "dept": "44", "y": 186, "x": 92}, 
+	{"width": 62, "height": 50, "dept": "45", "y": 160, "x": 247}, 
+	{"width": 57, "height": 39, "dept": "43", "y": 326, "x": 308}, 
+	{"width": 49, "height": 48, "dept": "46", "y": 347, "x": 224}, 
+	{"width": 52, "height": 44, "dept": "47", "y": 363, "x": 177}, 
+
+	{"width": 44, "height": 73, "dept": "50", "y": 78, "x": 119}, 
+	//{"width": 60, "height": 49, "dept": "51", "y": 99, "x": 320}, 
+	{"width": 60, "height": 49, "dept": "51", "y": 100, "x": 319}, 
+	{"width": 48, "height": 61, "dept": "52", "y": 140, "x": 366}, 
+	{"width": 47, "height": 47, "dept": "53", "y": 146, "x": 142}, 
+	{"width": 65, "height": 68, "dept": "54", "y": 88, "x": 395}, 
+	{"width": 36, "height": 68, "dept": "55", "y": 87, "x": 375}, 
+	//{"width": 63, "height": 45, "dept": "56", "y": 161, "x": 48}, 
+	{"width": 63, "height": 45, "dept": "56", "y": 161, "x": 51}, 
+	{"width": 66, "height": 55, "dept": "57", "y": 90, "x": 411}, 
+	{"width": 53, "height": 52, "dept": "58", "y": 204, "x": 299}, 
+	{"width": 79, "height": 62, "dept": "59", "y": 4, "x": 269}, 
+
+	//{"width": 63, "height": 53, "dept": "63", "y": 280, "x": 281}, 
+	{"width": 63, "height": 55, "dept": "63", "y": 280, "x": 281}, 
+	{"width": 76, "height": 46, "dept": "64", "y": 429, "x": 107}, 
+	{"width": 41, "height": 53, "dept": "65", "y": 429, "x": 167}, 
+	{"width": 61, "height": 35, "dept": "66", "y": 469, "x": 252}, 
+	{"width": 47, "height": 55, "dept": "67", "y": 112, "x": 452}, 
+	{"width": 29, "height": 50, "dept": "68", "y": 157, "x": 451}, 
+	
+	
+	
+
+
+	
+	
+
+	
+	{"width": 41, "height": 62, "dept": "07", "y": 329, "x": 341}, 
+	
+	{"width": 56, "height": 64, "dept": "21", "y": 177, "x": 345}, 
+	//{"width": 65, "height": 46, "dept": "22", "y": 123, "x": 53}, 
+	{"width": 65, "height": 46, "dept": "22", "y": 125, "x": 55}, 
+	{"width": 49, "height": 44, "dept": "23", "y": 268, "x": 241}, 
+	{"width": 47, "height": 69, "dept": "26", "y": 329, "x": 374}, 
+	{"width": 51, "height": 57, "dept": "25", "y": 200, "x": 410},
+	{"width": 56, "height": 47, "dept": "27", "y": 95, "x": 203}, 
+	{"width": 47, "height": 56, "dept": "28", "y": 126, "x": 219}, 
+	//{"width": 52, "height": 56, "dept": "29", "y": 129, "x": 8}, 
+	{"width": 52, "height": 56, "dept": "29", "y": 129, "x": 11}, 
+	
+	
+	
+	//{"width": 54, "height": 40, "dept": "60", "y": 80, "x": 255}, 
+	{"width": 54, "height": 40, "dept": "60", "y": 78, "x": 255}, 
+	//{"width": 68, "height": 44, "dept": "61", "y": 125, "x": 158}, 
+	{"width": 68, "height": 44, "dept": "61", "y": 124, "x": 159}, 
+	{"width": 59, "height": 56, "dept": "62", "y": 9, "x": 250}, 
+	{"width": 36, "height": 48, "dept": "69", "y": 275, "x": 355}, 
+	{"width": 62, "height": 49, "dept": "73", "y": 294, "x": 410}, 
+	{"width": 48, "height": 42, "dept": "74", "y": 266, "x": 416}, 
+	{"width": 42, "height": 65, "dept": "79", "y": 229, "x": 153}, 
+	{"width": 51, "height": 54, "dept": "87", "y": 271, "x": 211}, 
+
+
+	{"width": 59, "height": 47, "dept": "49", "y": 189, "x": 138}, 
+	
+
+	
+
+	{"width": 55, "height": 43, "dept": "70", "y": 176, "x": 396}, 
+	{"width": 70, "height": 56, "dept": "71", "y": 228, "x": 330}, 
+	{"width": 50, "height": 52, "dept": "72", "y": 152, "x": 174}, 
+	{"width": 64, "height": 46, "dept": "76", "y": 62, "x": 194}, 
+	{"width": 42, "height": 57, "dept": "77", "y": 117, "x": 282}, 
+	{"width": 30, "height": 37, "dept": "78", "y": 118, "x": 245}, 
+
+	{"width": 68, "height": 44, "dept": "80", "y": 45, "x": 242}, 
+	{"width": 58, "height": 45, "dept": "81", "y": 397, "x": 246}, 
+	{"width": 51, "height": 35, "dept": "82", "y": 385, "x": 212}, 
+	{"width": 53, "height": 46, "dept": "83", "y": 413, "x": 416}, 
+	{"width": 47, "height": 43, "dept": "84", "y": 381, "x": 372}, 	 
+//	{"width": 63, "height": 46, "dept": "85", "y": 230, "x": 113}, 
+	{"width": 63, "height": 46, "dept": "85", "y": 229, "x": 119}, 
+	{"width": 50, "height": 64, "dept": "86", "y": 226, "x": 184}, 
+	{"width": 68, "height": 40, "dept": "88", "y": 146, "x": 395}, 
+	{"width": 57, "height": 61, "dept": "89", "y": 157, "x": 298}, 
+	
+	{"width": 16, "height": 19, "dept": "90", "y": 186, "x": 447}, 
+	//{"width": 24, "height": 28, "dept": "91", "y": 136, "x": 263},
+	{"width": 24, "height": 28, "dept": "91", "y": 136, "x": 264},
+	//{"width": 36, "height": 18, "dept": "95", "y": 110, "x": 252},
+	{"width": 36, "height": 18, "dept": "95", "y": 109, "x": 252},
+	{"width": 27, "height": 24, "dept": "971", "y": 12, "x": 5}, 
+	{"width": 26, "height": 28, "dept": "972", "y": 41, "x": 13}, 
+	{"width": 25, "height": 30, "dept": "973", "y": 70, "x": 13},
+
+	//{"width": 28, "height": 16, "dept": "75", "y": 33, "x": 418}, 
+	//{"width": 56, "height": 32, "dept": "75", "y": 32, "x": 419}, 
+	{"width": 56, "height": 32, "dept": "75", "y": 36, "x": 426},
+	{"width": 42, "height": 82, "dept": "92", "y": 20, "x": 416}, 
+	{"width": 70, "height": 72, "dept": "93", "y": 0, "x": 441}, 
+	{"width": 68, "height": 56, "dept": "94", "y": 53, "x": 445}, 
+	//{"width": 42, "height": 82, "dept": "92", "y": 23, "x": 410}, 
+	//{"width": 70, "height": 72, "dept": "93", "y": 13, "x": 427}, 
+	//{"width": 34, "height": 28, "dept": "94", "y": 40, "x": 428}, 
+	//{"width": 68, "height": 56, "dept": "94", "y": 40, "x": 431}, 
+
+
+	];
+
+depts=d3.nest().key(function(d) {return d.dept;}).rollup(function(d) {return d[0];}).map(dept1);
+function proj(A,B,C){
+	
+	// case of line BC vertical
+	if(C[0]===B[0]){
+	// case of B=C
+		if(C[1]===B[1])
+			{var dist=Math.sqrt((B[0]-A[0])*(B[0]-A[0])+(B[1]-A[1])*(B[1]-A[1]));
+			 return [B[0],B[1],dist];}
+		return [B[0],A[1],Math.abs(B[0]-A[0])];}
+	// case of line BC horizontal
+	if(C[1]===B[1]){return [A[0],B[1],Math.abs(A[1]-B[1])];}
+	
+
+	// else we compute the equation of line BC
+	// slope
+	var m = ( C[1] - B[1]) / ( C[0] - B[0] ),
+	// y offset
+	b = B[1] - ( m * B[0] );
+
+	// and that of the line perpendicular to BC that goes through A
+	var m2=-1/m;
+	var b2=A[1]-(m2*A[0]);
+
+	// now the intersect
+	var x=(b2-b)/(m-m2);
+	var y=m*x+b;
+	var dist=Math.sqrt((x-A[0])*(x-A[0])+(y-A[1])*(y-A[1]));
+	return [x,y,dist];
+}
+
+
+
+var table=d3.select("table");
+var svg = d3.select("svg");
+var p1,p2,p;
+var colors=d3.scale.category20().domain(d3.range(10));
+var density=d3.scale.linear().domain([0,500,1000]).range(["deeppink","yellow","azure"]);
+p=[];
+paths=paths.slice(0,96);
+paths.forEach(function(dept) {
+	minX=9999;
+	minY=9999;
+	maxX=0;
+	maxY=0;
+
+	// loop 1: we make a simple path and compute the dimensions of the shape according to that path.
+
+	dept.circos.forEach(function(c) {
+		path.attr("d",c.path);
+		var segments = path.node().pathSegList,
+	    segment,
+	    x = 0,
+	    y = 0,
+	    points = [],
+	    n = segments.numberOfItems - 1, // drop Z
+	    i = -1;
+
+		while (++i < n) {
+		  segment = segments.getItem(i);
+		  points.push(segment.pathSegType & 1
+		      ? [x += segment.x, y += segment.y]
+		      : [x = segment.x, y = segment.y]);
+		}
+		c.points=points;
+		
+		
+		p1=simplifyPath(points,step);
+		while(p1.length<3) {
+			console.log("circo "+dept.id+"-"+c.index+" too short.")
+			step=step/2;
+			p1=simplifyPath(points,step);	
+		};
+		
+		p.push(p1);
+		p2=p1.map(function(d) {
+			var x=Math.round(d[0],1),y=Math.round(d[1],1);
+			if (x>maxX){maxX=x;}
+			if (x<minX){minX=x;}
+			if (y>maxY){maxY=y;}
+			if (y<minY){minY=y;}
+			if(isNaN(x)||isNaN(y)){console.log("problem with "+dept.id+"-"+c.index);}
+			return [x,y];
+		})
+		p3=[p2[0]];
+
+		p2.slice(1).forEach(function(d,i) {
+				var previousPoint=p2[i];
+				p3.push([d[0]-previousPoint[0],d[1]-previousPoint[1]]);
+			})
+		
+
+		c.path=("m" + p3[0] + "l" + p3.slice(1).join(" ")+"z");
+	})
+
+	// at this stage we know how big the departement would be if it had to be drawn according to this set of shapes.
+	// but we also know how big it *should* be and where at on the map.
+ 	var myId;
+ 	//console.log(dept.id)
+	if (dept.id==="2A"){myId="2a";} else
+	if (dept.id==="2B"){myId="2b";} else 
+	if (dept.id==="90 Territoire de"){myId="90";} else {myId=dept.id;}
+	//console.log(myId);
+	var ref=depts[myId];
+	dept.x=offsetX=ref.x-minX;	
+	dept.y=offsetY=ref.y-minY;
+	dept.width=ratioWidth=ref.width/(maxX-minX);
+	dept.height=ratioHeight=ref.height/(maxY-minY);/*
+	dept.circos.forEach(function(c) {
+		svg.append("path").attr("d",c.newPath).attr("transform","scale("+ratioWidth+","+ratioHeight+") translate("+offsetX+","+offsetY+")").style("fill","blue").style("opacity",.5).style("stroke","white")
+	})*/
+	dept.circos.forEach(function(c) {
+		var mypath=c.path.replace("m","").replace("l"," ").replace("z","").split(" ");
+		var newPath=[];
+		var minX=9999,maxX=0,minY=9999,maxY=0,x=0,y=0;
+		mypath.forEach(function(token) {
+			coord=token.split(",");
+			coord[0]=coord[0]*ratioWidth;
+			coord[1]=coord[1]*ratioHeight;
+			x+=coord[0];y+=coord[1];
+			if (x>maxX){maxX=x;}
+			if (x<minX){minX=x;}
+			if (y>maxY){maxY=y;}
+			if (y<minY){minY=y;}
+			newPath.push(coord);
+		})
+		newPath[0][0]=newPath[0][0]+offsetX;
+		newPath[0][1]=newPath[0][1]+offsetY;
+		c.path=newPath;
+		c.x=minX;
+		c.y=minY;
+		c.width=maxX-minX;
+		c.height=maxY-minY;
+		c.area=c.width*c.height;
+
+		path.attr("d","M"+newPath[0]+"l"+newPath.slice(1).join(" ")+"Z");
+		var segments = path.node().pathSegList,
+	    segment,
+	    x = 0,
+	    y = 0,
+	    points = [],
+	    n = segments.numberOfItems - 1, // drop Z
+	    i = -1;
+
+		while (++i < n) {
+		  segment = segments.getItem(i);
+		  points.push(segment.pathSegType & 1
+		      ? [x += segment.x, y += segment.y]
+		      : [x = segment.x, y = segment.y]);
+		}
+		c.points=points;
+	});
+})  
+svg.selectAll("path").remove();
+
+if (mode===1){
+// and now for the master stroke
+paths.forEach(function(dept) {dept.circos.sort(function(b,a){return b.x-a.x;})});
+paths.sort(function(b,a){return b.x-a.x;});
+donePoints=[];
+function distancePoints(p1,p2){
+	return Math.sqrt((p1[0]-p2[0])*(p1[0]-p2[0])+(p1[1]-p2[1])*(p1[1]-p2[1]));
+	
+}
+var stitchin;
+var count=[0,0]
+paths.forEach(function(dept) {
+	dept.circos.forEach(function(circo) {
+		circo.points.forEach(function (point) {
+			point[0]=Math.round(point[0],0);
+			point[1]=Math.round(point[1],0);
+			stitch=[];
+			donePoints.forEach(function(d) {var myDist;
+				if ((myDist=distancePoints(d,point))<stitchStep) {
+					stitchin=true;
+					stitch.push({dist:myDist,point:d});
+				} 
+			});
+			if(stitch.length) {
+				// getting the closest point of those within distance
+				
+				stitch.sort(function(a,b){b.dist-a.dist;})
+				point[0]=stitch[0].point[0];
+				point[1]=stitch[0].point[1];
+				count[0]++;
+			}
+			else {
+				// else, adding this point to the list of those who could be used as reference
+				donePoints.push(point);
+				count[1]++;
+			} 
+		});
+	});
+	// removing all the points which are now too far to ever be of use
+	donePoints=donePoints.filter(function(d) {return d.x>dept.x-10;})
+})
+}
+if(mode===2){
+
+var mySegments=[],lolSegments=[];
+var count=[0,0];
+paths.forEach(function(dept) {
+	dept.circos.forEach(function(circo) {
+		circo.points[0][0]=Math.round(circo.points[0][0],0);
+		circo.points[0][1]=Math.round(circo.points[0][1],0);
+		circo.points.slice(1).forEach(function (point,i) {
+			var prev=circo.points[i]; // this is the previous point in the loop
+			point[0]=Math.round(point[0],0);
+			point[1]=Math.round(point[1],0);
+			stitch=[];
+			mySegments.forEach(function(d) {var myDist;
+				myDist=proj(point,d[0],d[1]); // returns the projected point + distance to segment
+				if (myDist[2]<projStep) { // if projected point within threshold
+					stitch.push(myDist);
+					console.log("projected!")
+				} 
+			});
+			if(stitch.length) {
+				// getting the closest point of those within distance
+				
+				stitch.sort(function(a,b){b[2]-a[2];}) // sort by distance
+				point[0]=Math.round(stitch[0][0],0);
+				point[1]=Math.round(stitch[0][1],0);
+				count[0]++;
+			}
+			else {
+				// else, adding this segment to the list of those who could be used as reference
+				mySegments.push([point,prev]);lolSegments.push([point,prev]);
+				count[1]++;
+			} 
+		});
+	});
+	// removing all the segments which are now too far to ever be of use
+	mySegments=mySegments.filter(function(d) {return d[0][0]>dept.x-10&&d[1][0]>dept.x-10;})
+})
+}
+
+defs.append("style").text(".depts {stroke:white;stroke-width:1.25;fill:#eee}");
+svg.selectAll(".depts").data(paths).enter()
+	.append("g").classed("depts",1)
+	.attr("id",function(d) {return "g"+d.id;})
+	.style("fill",function(d,i) {return colMode?colors(~~(Math.random()*20)):null;})
+	.selectAll("path").data(function(d) {return d.circos;}).enter()
+		.append("path")
+		.attr("d",function(d) {return "M"+d.points[0]+"L"+d.points.slice(1).join(" ")+"Z";})
+		//.attr("transform",function(d) {
+			//translate(-centerX*(factor-1), -centerY*(factor-1))
+			//scale(factor)
+		//	var factor=.95;
+		//	var centerX=d.x+d.width/2;
+		//	var centerY=d.y+d.height/2;
+		//	return "translate("+(-centerX*(factor-1))+","+(-centerY*(factor-1))+") scale("+factor+")";
+
+		//})
+			//.style("fill",function(d) {return d3.rgb(d.dept,d.index,128);})
+			.style("fill",function(d) {return colMode>1?density(d.area):null;})
+			//.style("stroke",function(d) {return d3.rgb(density(d.area)).brighter();})
+			.classed("circ",1)
+			.attr("id",function(d) {return "c"+d.dept+d3.format("02")(d.index);})
+			.append("title")
+			.text(function(d) {return d.dept+"-"+d.index;})
+//svg.append("g").classed("rects",1).attr("transform","scale(.95)").selectAll("rect").data(dept1).enter()
+	//.append("rect")
+
+	//.attr("x",function(d) {return d.x;})
+	//.attr("y",function(d) {return d.y;})
+	//.attr("width",function(d) {return d.width;})
+	//.attr("height",function(d) {return d.height;})
+	//.style("stroke","black")
+	//.style("opacity",.5)
+	//.style("fill","aliceblue")
+	//.style("fill","#eee")
+	//.append("title").text(function(d) {return d.dept;})
+//d3.select("body").append("p").html(JSON.stringify(paths));
+//svg.remove();
+
+/*svg.append("path")
+    .style("fill", "none")
+    .style("stroke", "red")
+    .style("stroke-width", "1.5px")
+    .attr("d", "M" + points[0] + "L" + points.slice(1).join(" "));
+*/
+</script>

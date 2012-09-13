@@ -1,0 +1,2 @@
+$ wget http://elections.interieur.gouv.fr/PR2012/ -nd -r -directory-prefix=T2 -
+N -l 3 -A html --limit-rate=200k
